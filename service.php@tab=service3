@@ -1,0 +1,3280 @@
+
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+	<title>About VehicleCare</title>
+	<!-- Meta tag Keywords -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8" />
+	<meta name="keywords" content="Car Service,Car Repair, Car Service Center,Car Denting, Car Painting, Car Cleaning, Car Wash, Car Mechanic, Car Garage, Car Service noida, Car Repair noida ,Car Wheel Repair ,Mercedes Car Service, Audi Car Service, BMW Car Service, Automobile Repair, noida, Hyundai , Maruti Suzuki, Honda, Toyota, Chevrolet, Volkswagen , Mahindra, Skoda, Daewoo, Nissan , BMW , Audi, Mercedes." />
+	<meta name="description" />
+	<script>
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
+
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
+	<!-- //Meta tag Keywords -->
+	<link rel="shortcut icon" href="https://vehiclecare.in/images/vehiclecare_title.png"> 
+
+	<!-- Custom-Files -->
+	<link rel="stylesheet" href="https://vehiclecare.in/css/bootstrap.css">
+	<!-- Bootstrap-Core-CSS -->
+	<link rel="stylesheet" href="https://vehiclecare.in/css/style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="https://vehiclecare.in/css/single.css" type="text/css" media="all" />
+	<!-- Style-CSS -->
+	<link rel="stylesheet" href="https://vehiclecare.in/css/font-awesome.css">
+	<!-- Font-Awesome-Icons-CSS -->
+	<!-- //Custom-Files -->
+
+	<!-- Web-Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;subset=latin-ext"
+	 rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese"
+	 rel="stylesheet">
+	<!-- //Web-Fonts -->
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145201897-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-145201897-1');
+	</script>
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-N2LFBNC');</script>
+	<!-- End Google Tag Manager -->
+
+	<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '529028581728796');
+	fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=529028581728796&ev=PageView&noscript=1"
+	/></noscript>
+	<!-- End Facebook Pixel Code -->
+<meta name="facebook-domain-verification" content="0nsth5a00froqrs6lv9bsgnslk0q8x" /> </head>
+
+<body>
+	
+	
+<!-- Preloader -->
+<div class="preloader layout2" id="loader">
+  <div class="meter">
+    <div class="line"></div>
+    <div class="line"></div>
+    <div class="line"></div>
+    <div class="line"></div>
+    <div class="line"></div>
+    <div class="line"></div>
+    <div class="subline"></div>
+    <div class="subline"></div>
+    <div class="subline"></div>
+    <div class="subline"></div>
+    <div class="subline"></div>
+    <div class="loader-circle-1">
+      <div class="loader-circle-2"></div>
+    </div>
+    <div class="needle"></div>
+    <span class="loadtext">Loading</span>
+  </div>
+</div>
+<!-- Preloader end -->
+<!-- header -->
+	<header>
+		<!-- navigation -->
+		<div class="main-top py-0">
+			<nav class="navbar navbar-expand-lg navbar-light fixed-navi">
+				<div class="container-fluid">
+					<!-- logo -->
+					<a class="navbar-brand font-weight-bold" href="https://vehiclecare.in/">
+						<img src="https://vehiclecare.in/images/logo.svg" class="logo">
+					</a>
+					<button class="btn btn-outline-danger citySelect selectedCity" data-toggle="modal" data-target="#city">Select City</button>
+					<!-- //logo -->
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+					 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+					<div class="collapse navbar-collapse text-center mr-2" id="navbarSupportedContent">
+						<ul class="navbar-nav ml-lg-auto">
+							<li class="nav-item mx-xl-5 mx-lg-3 my-lg-0 my-3">
+								<a class="nav-link" href="https://claims.vehiclecare.in">Insurance Claim</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="blaze.1">Blog
+									<span class="sr-only">(current)</span>
+								</a>
+							</li>
+							<li class="nav-item mx-xl-5 mx-lg-3 my-lg-0 my-3">
+								<a class="nav-link" href="https://vehiclecare.in/about.php">About Us</a>
+							</li>
+							
+							<li class="nav-item mt-lg-0 mt-3 my-3">
+								<a class="nav-link" href="https://vehiclecare.in/contact.php">Contact Us</a>
+							</li>
+
+							<li class="nav-item mx-xl-5 mx-lg-3 my-lg-0 my-3">
+								<a class="nav-link" href="https://vehiclecare.in/lubricant.php">Lubricant</a>
+							</li>
+							
+							<li class="ml-lg-4 mb-lg-0 mb-4">
+								<a target="_blank" href="https://prime.vehiclecare.in" class="reqe-button">VC-PRIME</a>
+							</li>
+						</ul>
+					</div>
+					<!-- language Selector [start] -->
+						<!--<div id="google_translate_element"></div>-->
+						<!--<script type="text/javascript">-->
+						<!--function googleTranslateElementInit() {-->
+						<!--	new google.translate.TranslateElement(-->
+						<!--	{ pageLanguage: "en" },-->
+						<!--	"google_translate_element"-->
+						<!--	);-->
+						<!--}-->
+						<!--</script>-->
+
+						<!--<script-->
+						<!--type="text/javascript"-->
+						<!--src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
+
+						</script>
+					language Selector [end] -->
+				</div>
+			</nav>
+		</div>
+		<!-- //navigation -->
+	</header>
+	<!-- //header -->
+	<!-- banner -->
+	<!-- <div class="banner-w3ls-2">
+
+	</div> -->
+	<!-- //banner -->
+
+	<!-- about repair section -->
+	<div class="inner-sec-w3ls">
+		<div class="container-fluid" style="padding: 0;">
+			<div class="col-lg-12" style="background: white;padding: 0;">
+					<ul class="nav nav-tabs mb-4 pt-3" id="serviceNav">
+					  	<li class="nav-item">
+						  	<a class="nav-link active" data-toggle="tab" href="service.php@tab=service3#service1">
+						  		<!-- <img src="https://gomechanic.in/icons/servicesType/unselected/scheduledServices.svg"> -->
+								Periodic Service
+							</a>
+						</li>
+					  	<li class="nav-item">
+						  	<a class="nav-link" data-toggle="tab" href="service.php@tab=service3#service2">
+						  		<!-- <img src="https://gomechanic.in/icons/servicesType/unselected/scheduledServices.svg"> -->
+								Denting & Painting
+							</a>
+						</li>
+					  	<li class="nav-item">
+						  	<a class="nav-link" data-toggle="tab" href="service.php@tab=service3#service3">
+						  		<!-- <img style="width:60%;" alt="Car Wash" src="images/service/washingdetailing.svg"> -->
+								Car Wash & Spa
+							</a>
+						</li>
+					  	
+						<li class="nav-item">
+						  	<a class="nav-link" data-toggle="tab" href="service.php@tab=service3#service4">
+						  		<!-- <img src="https://gomechanic.in/icons/servicesType/unselected/scheduledServices.svg"> -->
+								Car AC Service & Repair
+							</a>
+						</li>
+						<li class="nav-item">
+						  	<a class="nav-link" data-toggle="tab" href="service.php@tab=service3#service5">
+						  		<!-- <img src="https://gomechanic.in/icons/servicesType/unselected/scheduledServices.svg"> -->
+								Car Batteries
+							</a>
+						</li>
+						<li class="nav-item">
+						  	<a class="nav-link" data-toggle="tab" href="service.php@tab=service3#service6">
+						  		<!-- <img src="https://gomechanic.in/icons/servicesType/unselected/scheduledServices.svg"> -->
+								Wheel Allignment & Balancing
+							</a>
+						</li>
+						
+						<li class="nav-item">
+						  	<a class="nav-link" data-toggle="tab" href="service.php@tab=service3#service7">
+						  		<!-- <img src="https://gomechanic.in/icons/servicesType/unselected/scheduledServices.svg"> -->
+								Custom Repairs
+							</a>
+						</li>
+						<li class="nav-item">
+						  	<a class="nav-link" data-toggle="tab" href="service.php@tab=service3#service8">
+						  		<!-- <img src="https://gomechanic.in/icons/servicesType/unselected/scheduledServices.svg"> -->
+								Insurance Claim
+							</a>
+						</li>
+						
+					</ul>
+				</div>
+		</div>
+		<div class="container-fluid pl-5">
+			<div class="row">
+				
+				<div class="col-lg-8" id="columnTwo">
+					<div class="row">
+						
+						<div class="col-lg-12 serviceDiv" >
+							<div class="tags">
+								<div class="tab-content">
+									<div id="service1" class="tab-pane container active">
+										<div class="row pt-sm-4">
+											<div class="col-lg-12 about-in text-center">
+												<div class="card">
+
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Basic car service</h3>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/general_service/engine_check.svg" class="service_icon"  alt="engine_check"> Engine Oil Replace</li>	
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/oil_replace.svg" class="service_icon"  alt="oil_replace"> Oil Filter Replace</li>	
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/air_filter.svg" class="service_icon"  alt="air_filter"> Air Filter Clean</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/coolant.svg" class="service_icon"  alt="coolant"> Coolant Topup	</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/general_service/wiper_fluid_top.svg" class="service_icon"  alt="wiper_fluid_top"> Wiper Fluid top-up</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/battery_water.svg" class="service_icon"  alt="battery_water"> Battery Water	Top-up</li>	
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/spark_plugs.svg" class="service_icon"  alt="spark_plugs"> Spark Plugs Clean</li>	
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/exteririor_body_wash.svg" class="service_icon"  alt="exteririor_body_wash"> Exterior Body Washing</li>	
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="basic_car_service" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<span class="preferred">Popular</span>
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Standard car service</h4>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/general_service/brake_oil.svg" class="service_icon"  alt="brake_oil"> Brake Fluid Top-up </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/brakepad_clean.svg" class="service_icon"  alt="brakepad_clean"> Brake Pads clean </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/interior_cleaning.svg" class="service_icon"  alt="interior_cleaning"> Interior car washing </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/exteririor_body_wash.svg" class="service_icon"  alt="exteririor_body_wash"> Exterior car washing </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/dashboard_polish.svg" class="service_icon"  alt="dashboard_polish"> Dashboard Polish</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/tire_clean.svg" class="service_icon"  alt="tire_clean"> Tyre Polish</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/40_point.svg" class="service_icon"  alt="40_point"> 20 Point Checkup </li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/general_service/oil_replace.svg" class="service_icon"  alt="oil_replace"> Oil Filter Replace </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/air_filter.svg" class="service_icon"  alt="air_filter"> Air Filter Replace </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/engine_check.svg" class="service_icon"  alt="engine_check"> Engine Oil Replace </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/ac_filter_clean.svg" class="service_icon"  alt="ac_filter_clean"> AC Filter Clean </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/battery_water.svg" class="service_icon"  alt="battery_water"> Battery Water Top Up </li> 
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/coolant.svg" class="service_icon"  alt="coolant"> Coolant Top Up </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/spark_plugs.svg" class="service_icon"  alt="spark_plugs"> Spark Plugs Clean </li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="standard_car_service" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<h4 class="card-title text-left ml-0 mb-3">Comprehensive car service</h4>
+																<div class="row">
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/general_service/oil_replace.svg" class="service_icon"  alt="oil_replace"> Oil Filter Replace</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/general_service/air_filter.svg" class="service_icon"  alt="air_filter"> Air Filter Replace</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/general_service/engine_check.svg" class="service_icon"  alt="engine_check"> Engine Oil Replace</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/general_service/ac_filter_clean.svg" class="service_icon"  alt="ac_filter_clean"> AC Filter Replace</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/general_service/battery_water.svg" class="service_icon"  alt="battery_water"> Battery Water Top Up</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/general_service/coolant.svg" class="service_icon"  alt="coolant"> Coolant Top Up</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/general_service/spark_plugs.svg" class="service_icon"  alt="spark_plugs"> Spark Plugs Clean</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/general_service/brake_oil.svg" class="service_icon"  alt="brake_oil"> Brake Fluid Top-up</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/general_service/brakepad_clean.svg" class="service_icon"  alt="brakepad_clean"> Brake Pads clean</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/general_service/interior_cleaning.svg" class="service_icon"  alt="interior_cleaning"> Interior car washing</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/general_service/exteririor_body_wash.svg" class="service_icon"  alt="exteririor_body_wash"> Exterior car washing</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/general_service/dashboard_polish.svg" class="service_icon"  alt="dashboard_polish"> Dashboard Polish</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/general_service/tire_clean.svg" class="service_icon"  alt="tire_clean"> Tyre Polish</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/general_service/40_point.svg" class="service_icon"  alt="40_point"> 40 Point Checkup</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/general_service/alignemnt.svg" class="service_icon"  alt="alignemnt"> Wheel Alignment </li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/general_service/wheel_alignemnt_balancing.svg" class="service_icon"  alt="wheel_alignemnt_balancing"> Wheel Balancing </li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/general_service/tire_roation.svg" class="service_icon"  alt="tire_roation"> Tyre Rotation </li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/general_service/fuel_filter.svg" class="service_icon"  alt="fuel_filter"> Fuel Filter Replace</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/general_service/brake_oil.svg" class="service_icon"  alt="brake_oil"> Gear Oil Top-up</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="comprehensive_car_service" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+										</div>
+										
+											<!-- about section -->
+										<div class="inner-sec py-2 mt-5" id="custumService">
+											<div class="container py-xl-5 py-lg-3">
+												<div class="row">
+													<div class="col-lg-12 about-right">
+														<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Periodic Car services offered in <span class="serviceCity"> India</span> details:</h4>
+														<p class="mb-3">The scheduled car service packages have been simplified to help you choose the service best suited to your needs- 
+											Basic service package, standard service package, and comprehensive service package. Our basic car service covers all the essentials required to keep you moving while the standard package accommodates a broader range of diagnostics to help you steer clear of unwanted repairs. The recommended miles between a basic and standard car service is 5000km and 10000km respectively. For cars with over 20000km on miles, we recommend our comprehensive car service package involving a detailed 40 point inspection of all components with all-round cleaning and reconditioning so you stay on top of every car problem.   </p>
+
+														<p class="mb-3"><b>Choose Your Right Fit Service-</b> We have simplified your car service options to help you choose the right package  </p>
+
+														<ul class="pl-5 mb-3">
+														  <li><b>Basic Service - </b> All the essentials to keep you moving - recommended every 6 months (5000km). </li>
+
+														  <li><b>Standard Service - </b> Get the essentials with the upgraded touch of VehicleCare. - recommended every 12 months (10000km).</li>
+
+														  <li><b>Comprehensive Service -</b> Top-of-the-range car service that includes end-to-end inspection- recommended every 24 months. (20000km).</li>
+
+														</ul>
+
+														<p class="mb-3"><b>Warranty On Car Service-  </b>  Timely and quality service is one of the best ways to maintain a car and keep unwanted problems at bay and with VehicleCare’s expert car service you can avoid all car troubles while enjoying your peace of mind. We promise an unconditional warranty of 100kms on all our car services.</p>
+
+														<b>About Periodic Car Services: </b>
+														<p class="mt-1 mb-3">While cars in the modern age have become more reliable than ever, it is still extremely crucial to get periodic maintenance services to ensure their longevity and maintain their value in the long run. Certain key components of a car like engine oil, brakes, coolants, have a finite run and need to be serviced periodically to obtain optimum performance and maximum efficiency.  A vehicle with FSH- Full-Service History of regular and timely car servicing holds a high value and always will have low chances of going wrong.</p>
+													</div>
+												</div>
+											</div>
+										</div>
+										<!-- //about section -->
+
+										<!-- faq -->
+										<div class="pb-lg-5 py-lg-0 py-5 mt-5">
+											<div class="container">
+												<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Frequently Asked Questions</h3>
+												<div id="accordion" class="faqList text-capitalize">
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link false" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
+											                 How often should I get engine oil replaced?<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse2" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											             The recommended miles between engine oil replacement is 5000-7000 for a convention engine. However, in the case of an engine that requires full-synthetic motor oil, the recommended miles between services is 12000-15000.
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+											                Which engine oil do you use in a periodic car service? <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse3" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              We use only top-quality engine oil for your car.  In a periodic car service, we use the 5w-30 engine oil from shell for superior performance and enhanced efficiency.
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+											                When should I get my brake pads replaced <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse4" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											             As a general rule of thumb, you should get your car’s brake pads replaced every 20,000 - 30,000 miles. However, this figure depends on a number of factors like weather, quality of the road, size of the vehicle. If you find your car taking longer to brake or hear screeching or grinding sounds, those are pretty clear-cut signs of failing brakes. Looking for brake replacement signs is important not only for safety but can save you from costly repairs of the rotors.
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+											                How often should I get my car’s fluid levels checked? <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse8" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											               Apart from the commonly known engine oil and coolant, your car has many other fluids like transmission fluid, brake fluid, wiper fluid, etc. The levels of these fluids are not necessarily affected by how frequently you drive but rather by the temperatures in which you operate. The recommended time between fluid checks is around 2-3 months which is why we provide fluid check-ups on every periodic car service.
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+											                 My engine is heating up quickly, what could be the reason for this?<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse10" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Assuming your car is relatively new and doesn’t have any issues with the radiator, belts, or hoses, etc, it could be due to low coolant. It is perhaps among the most common reason for a car overheating quickly as the engine's temperature is regulated through this fluid.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
+											                 Why is it that I have to get my engine oil changed every 3,000 miles?  <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse11" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Like any other component in your car the engine oil is also subject to wear and tear, the additives in the oil begin to break-down with high temperatures. In a normal drive, the engine almost always reaches over 200 degrees, and the given 3000 miles range has been determined and proven to be a good interval to get your engine oil replaced.
+
+											            </div>
+											          </div>
+											      </div>
+											      
+											  	</div>
+											</div>
+										</div>
+										<!-- //faq -->
+									</div>
+
+									<div id="service2" class="tab-pane container fade">
+										<div class="row pt-sm-4">
+											<div class="col-lg-12 about-in text-center">
+												<div class="card">
+													<div class="card-body">
+														<div class="row">
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Front door (L/R)</h4>
+
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent1.svg" class="service_icon"  alt="Free pick-up and drop"> Free pick-up and drop</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent2.svg" class="service_icon"  alt="Premium DuPont paint"> Premium DuPont paint</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent3.svg" class="service_icon"  alt="Rubbing and polishing"> Rubbing and polishing </li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent4.svg" class="service_icon"  alt="4 layer coating"> 4 layer coating</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="front_door_lr" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<span class="preferred">Popular</span>
+													<div class="card-body">
+														<div class="row">
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Fender (L/R)</h4>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent1.svg" class="service_icon"  alt="Free pick-up and drop"> Free pick-up and drop</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent2.svg" class="service_icon"  alt="Premium DuPont paint"> Premium DuPont paint</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent3.svg" class="service_icon"  alt="Rubbing and polishing"> Rubbing and polishing </li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent4.svg" class="service_icon"  alt="4 layer coating"> 4 layer coating</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="fender_lr" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<div class="card-body">
+														<div class="row">
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Quater panels (L/R)</h4>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent1.svg" class="service_icon"  alt="Free pick-up and drop"> Free pick-up and drop</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent2.svg" class="service_icon"  alt="Premium DuPont paint"> Premium DuPont paint</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent3.svg" class="service_icon"  alt="Rubbing and polishing"> Rubbing and polishing </li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent4.svg" class="service_icon"  alt="4 layer coating"> 4 layer coating</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="quater_panels_lr" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<div class="card-body">
+														<div class="row">
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Running board (L/R)</h4>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent1.svg" class="service_icon"  alt="Free pick-up and drop"> Free pick-up and drop</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent2.svg" class="service_icon"  alt="Premium DuPont paint"> Premium DuPont paint</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent3.svg" class="service_icon"  alt="Rubbing and polishing"> Rubbing and polishing </li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent4.svg" class="service_icon"  alt="4 layer coating"> 4 layer coating</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="running_board_lr" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<div class="card-body">
+														<div class="row">
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Bumper  (F/R)</h4>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent1.svg" class="service_icon"  alt="Free pick-up and drop"> Free pick-up and drop</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent2.svg" class="service_icon"  alt="Premium DuPont paint"> Premium DuPont paint</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent3.svg" class="service_icon"  alt="Rubbing and polishing"> Rubbing and polishing </li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent4.svg" class="service_icon"  alt="4 layer coating"> 4 layer coating</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="bumper__fr" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<div class="card-body">
+														<div class="row">
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Bonnet</h4>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent1.svg" class="service_icon"  alt="Free pick-up and drop"> Free pick-up and drop</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent2.svg" class="service_icon"  alt="Premium DuPont paint"> Premium DuPont paint</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent3.svg" class="service_icon"  alt="Rubbing and polishing"> Rubbing and polishing </li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent4.svg" class="service_icon"  alt="4 layer coating"> 4 layer coating</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="bonnet" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<div class="card-body">
+														<div class="row">
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Boot</h4>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent1.svg" class="service_icon"  alt="Free pick-up and drop"> Free pick-up and drop</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent2.svg" class="service_icon"  alt="Premium DuPont paint"> Premium DuPont paint</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent3.svg" class="service_icon"  alt="Rubbing and polishing"> Rubbing and polishing </li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent4.svg" class="service_icon"  alt="4 layer coating"> 4 layer coating</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="boot" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<div class="card-body">
+														<div class="row">
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Roof</h4>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent1.svg" class="service_icon"  alt="Free pick-up and drop"> Free pick-up and drop</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent2.svg" class="service_icon"  alt="Premium DuPont paint"> Premium DuPont paint</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent3.svg" class="service_icon"  alt="Rubbing and polishing"> Rubbing and polishing </li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent4.svg" class="service_icon"  alt="4 layer coating"> 4 layer coating</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="general_service_standard" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<div class="card-body">
+														<div class="row">
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Whole body </h4>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent1.svg" class="service_icon"  alt="Free pick-up and drop"> Free pick-up and drop</li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent2.svg" class="service_icon"  alt="Premium DuPont paint"> Premium DuPont paint</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent3.svg" class="service_icon"  alt="Rubbing and polishing"> Rubbing and polishing </li>
+																			<li class="list-group-item"> <img src="images/serviceListIcon/denting_painting/dent4.svg" class="service_icon"  alt="4 layer coating"> 4 layer coating</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="whole_body" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<!-- about section -->
+										<div class="inner-sec py-2 mt-5" id="custumService">
+											<div class="container py-xl-5 py-lg-3">
+												<div class="row">
+													<div class="col-lg-12 about-right">
+														
+														<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Denting and painting services offered in <span class="serviceCity"> India</span> details: </h3>
+														<p class="mb-3">Our expert mechanics follow a detailed procedure for assessing and repairing dents including accurately matching the paintwork. We analyze the type of damage and metal malleability with precision to employ the ideal method for dent repair. The dents, dings, or creases located are corrected with specialized equipment and paint corrections are performed only by seasoned technicians. Along with the best dent removal technique our mechanics are able to apply years of experience, helping you save both time and money.<br/><br/>
+
+														A full body or panel restoration begins with a detailed inspection for metal positions, the intensity of damage, and the areas of paint chips, followed by preparation of the panel and dent removal using cutting-edge equipments. Then, the panel undergoes washing, baking, sanding, and drying to correct any irregularities and projections. Finally, the denting and painting process is completed with electrodip, clear coating, and waxing to bring out the true showroom finish.</p>
+
+														<p class="mb-3"><b>Choose your right fit denting and painting service: </b>Even a slight scuff of the paint can make your new car look old. Restore your car’s new look from the comfort of your home- </p>
+
+														<p class="mb-3"><b>Per Panel Dent Removal: </b> Get rid of dents and scratches from any part of your car.</p>
+
+														<ul class="pl-5 mb-3">
+														  	<li><b>Front- </b> Bumper and bonnet damages undone</li>
+															<li><b>Rear- </b> Boot and rear bumper damages removal</li>
+															<li><b>Sides- </b> Scratch removal from fenders, running boards, doors, and quarter panels. </li>
+														  
+														</ul>
+
+														<p class="mb-3"><b>Per Panel Painting:</b> Restoring the former shine with matching paint.</p>
+
+														<ul class="pl-5 mb-3">
+														  	<li><b>Front- </b> Bumper and bonnet paint, rubbing and polishing with premium DuPont paint.</li>
+															<li><b>Rear- </b> Boot and rear bumper paint, rubbing and polishing with premium DuPont paint. </li>
+															<li><b>Sides- </b>Fenders, running boards, doors, and quarter panels paint, rubbing and polishing with premium DuPont paint.  </li>
+														  
+														</ul>
+
+														<p class="mb-3"><b>Full Body Denting and Painting-</b> Complete restoration with detailed 4 layers of paint.</p>
+														
+														<b>About denting and painting services:  </b>
+														<p class="mt-1 mb-3">Door dings, striped paintwork, body scratches, all car damages are unavoidable and equally annoying. It is highly uncertain, when and how the road will throw a curveball at your car, but don’t let the scratches compromise the look of your car. We realize how dear you hold your car and the importance of a dent-free, glossy paintwork which is why we offer a wide range of denting and painting services to cover your car from all sorts of damages from hail dents, weather damage, door dings to fender benders, and side collisions.  </p>
+
+													</div>
+												</div>
+											</div>
+										</div>
+										<!-- //about section -->
+
+										<!-- faq -->
+										<div class="pb-lg-5 py-lg-0 py-5 mt-5 ">
+											<div class="container">
+												<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Frequently Asked Questions</h4>
+												<div id="accordion" class="faqList text-capitalize">
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link false" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
+											                 How do you ensure matching colors when the whole car is not painted?
+															<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse2" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Our workshops are highly equipped and possess years of experience working with cars. We are familiar with every manufacturer’s paint scheme and are skilled at mixing colors to get the right shade for your car.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+											               How long will it take to paint my car?
+															<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse3" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											               You can expect a full-body paint to take around 2-3 days. There are different layers of paint and sealers applied and the final coating takes around 24 hours to dry.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+											                When can I start washing my car after denting and painting service?
+															 <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse4" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											             You can begin to wash your car with cool water a few days after the denting and painting service. However, any kind of rigorous washing or waxing should be put off for at least 90 days as you need to let the paint sit and harden on the surface of your car.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+											                What kinds of damages are your workshops equipped to repair?
+															<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse8" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											               Our workshops are fully equipped and trained to fix any kind of dent/scratch/scrape on any kind of body. We make use of state-of-the-art tools and equipment specially designed for denting and painting services.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+											                 Is free pickup and drop service available for denting and painting service?
+
+															<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse10" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Yes, with VehicleCare you get free pick up and drop service plus roadside assistance in case you need your car towed.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
+											                 Does VehicleCare provide a warranty for denting and painting services?
+															 <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse11" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Yes, indeed, VehicleCare provides a complete 2 years warranty on denting and painting services.
+
+											            </div>
+											          </div>
+											      </div>
+											      
+											  	</div>
+											</div>
+										</div>
+										<!-- //faq -->
+
+									</div>
+
+									<div id="service3" class="tab-pane container fade">
+										<div class="row pt-sm-4">
+											<div class="col-lg-12 about-in text-center">
+												<div class="card">
+
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Complete Car wash</h3>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/car_wash/interior.svg" class="service_icon"  alt="interior"> Interior Vacuuming </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/car_wash/ac_vent.svg" class="service_icon"  alt="ac_vent"> AC Vent Cleaning </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/dashboard_polish.svg" class="service_icon"  alt="jumping_rod"> Dashboard polish </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/car_wash/door_clean.svg" class="service_icon"  alt="door_clean"> Door Pads Foam Wash </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/general_service/exteririor_body_wash.svg" class="service_icon"  alt="jumping_rod"> Roof Foam Wash </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/car_wash/mat_scrub.svg" class="service_icon"  alt="mat_scrub"> Floor Mats Foam Wash </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/car_wash/interior_scrub.svg" class="service_icon"  alt="interior_scrub"> Seat Scrubbing and cleaning </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/car_wash/mat_scrub.svg" class="service_icon"  alt="mat_scrub"> Carpet Scrubbing And Cleaning </li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/car_wash/door_clean.svg" class="service_icon"  alt="jumping_rod"> Glass cleaning and polishing </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/car_wash/exteririor_body_wash.svg" class="service_icon"  alt="exteririor_body_wash"> Exterior Body Wash </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/car_wash/engine_compartment_clean.svg" class="service_icon"  alt="engine_compartment_clean"> Engine compartment Cleaning </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/car_wash/tire_clean.svg" class="service_icon"  alt="tire_clean"> Tyre cleaning  </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/car_wash/exteroiors_rub.svg" class="service_icon"  alt="exteroiors_rub"> Exterior Rubbing Polishing </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/car_wash/exteior_wax.svg" class="service_icon"  alt="exteior_wax"> Exterior Wax  </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/car_wash/disinfection.svg" class="service_icon"  alt="disinfection"> Disinfection and sanitization for good measure</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="complete_car_wash" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<span class="preferred">Popular</span>
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Interior Cleaning</h3>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/car_wash/disinfection.svg" class="service_icon"  alt="disinfection"> Disinfection and sanitization</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/car_wash/interior_scrub.svg" class="service_icon"  alt="interior_scrub"> Interior vacuuming</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/car_wash/interior.svg" class="service_icon"  alt="jumping_rod"> Interior shampooing and cleaning </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/car_wash/exteririor_body_wash.svg" class="service_icon"  alt="exteririor_body_wash"> Body wash</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="interior_cleaning" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											
+										</div>
+
+										<!-- about section -->
+										<div class="inner-sec py-2 mt-5" id="custumService">
+											<div class="container py-xl-5 py-lg-3">
+												<div class="row">
+													<div class="col-lg-12 about-right">
+														
+														<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Car Wash And Spa Services offered in <span class="serviceCity"> India</span> details:  </h3>
+														<p class="mb-3">Maintaining a car’s perfect hygiene and glossy showroom finish requires more than just a regular car wash. Our car cleaning and detailing packages include a wide range of options to choose from. To keep your car germ-free and fresh looking with an express wash, drive through the nearest vehiclecare workshop. While for a more detailed look you can go for the all round car cleaning service that includes rubbing/polishing, vacuuming, interior, exterior and upholstery cleaning with waxing and protective coating.</p>
+
+														<p class="mb-3"><b>Choose your right fit car washing service- </b>
+														A wide assortment of car wash services from express cleaning to full car spa.</p>
+
+														<ul class="pl-5 mb-3">
+														  <li><b>Rubbing and Polishing - </b> Enhancing the exterior shine with Exterior cleaning, rubbing and Dashboard polishing </li>
+														  <li><b>Interior Cleaning- </b> Thorough sanitization including car wash, anti-bacterial spray, interior vacuuming, and interior detailing</li>
+														  <li><b>Full Car Spa-  </b> A comprehensive car cleaning service including interior cleaning, interior vacuuming, wax polishing, and tyre polishing </li>
+														  <li><b>Teflon and Ceramic Coating - </b> Protective layering of anti-rust and anti-corrosion teflon and ceramic coating with rubbing, polishing, and waxing.</li>
+
+														  <li>Top-quality cleaning agent and equipment</li>
+														  
+														  <li>Attention to hygiene and sanitization</li>
+
+														  <li>Experienced Professionals</li>
+														</ul>
+
+														<b>About Car Wash And Spa: </b>
+														<p class="mt-1 mb-3">Even as you’re not driving on a daily basis, your car is subject to the accumulation of dirt, dust, and other stubborn grimy substances. While the paintwork is prone to deterioration through blights and corrosion. Worn-out paint, due to its lost smoothness, tends to collect dirt and pollen on its surface and particles become much easier to seep into the cracks and gaps of the exterior. Conversely, a well-waxed car doesn’t let dirt stick as easily and its smooth glossy surface aids in wiping the dust off.  </p>
+
+													</div>
+												</div>
+											</div>
+										</div>
+										<!-- //about section -->
+
+										<!-- faq -->
+										<div class="pb-lg-5 py-lg-0 py-5 mt-5">
+											<div class="container">
+												<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Frequently Asked Questions</h3>
+												<div id="accordion" class="faqList text-capitalize">
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link false" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
+											                 My car brand’s name paint is a bit worn off but is pretty new outside of a few scratches on the sides. Which service should I go for? <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse2" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              You can go for our rubbing and polish service. It will remove the light scratches and wipe out any spots or smudges present. 
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+											                Why is rubbing and polish important and how often should I get it done? <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse3" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Rubbing and polishing are important to maintain the paintwork of your brand name and keep its value higher. We suggest you go for rubbing and polish every 3-4 months to keep your car looking young for a long time.
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+											                What is the difference between wax and polish? <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse4" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											             While car polishing only gets rid of minor scratches and stain marks from the car’s body, a car wax is different in that it leaves behind a shielding layer to protect that shiny look.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+											                What products are used for waxing polishing, rubbing of my brand name? <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse8" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											               We use the finest car cleaning agents from 3m and wurth for rubbing, polishing, and waxing of your brand name. 
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+											                 What are the interior cleaning products used by VehicleCare and how can I be assured of their quality? <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse10" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											             We use top quality products from 3m and wurth specifically designed for interior cleaning of your brand’s name. At VehicleCare we provide a detailed report of the car cleaning service divided into two subsections: Interior car cleaning and exterior car cleaning, for ensuring maximum transparency.
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
+											                 I don’t often wash my car but when I do it still looks stripy and dull. How can I fix it?  <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse11" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              A stripy and dull-looking car despite a thorough wash can be due to oxidation. Oxidation of the paint normally occurs from aging and exposure to sunlight. Regular car wash at home can slow this process and help you keep your car younger looking for a longer period. Incase oxidation has already occurred, we recommend you get VehicleCare’s rubbing and polishing service for cleaning the paint and waxing to bring the shine back to your car.
+											            </div>
+											          </div>
+											      </div>
+											      
+											  	</div>
+											</div>
+										</div>
+										<!-- //faq -->
+
+									</div>
+
+									<div id="service4" class="tab-pane container fade">
+										<div class="row pt-sm-4">
+											<div class="col-lg-12 about-in text-center">
+												<div class="card">
+
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Basic AC service</h3>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		<li class="list-group-item"><img src="images/serviceListIcon/checkup.svg" class="service_icon"  alt="checkup"> Car AC inspection</li>
+																		<li class="list-group-item"><img src="images/serviceListIcon/ac_gas.svg" class="service_icon"  alt="ac_gas"> AC Gas Topup (Upto 400 Gms)	</li>
+																		<li class="list-group-item"><img src="images/serviceListIcon/compresspr.svg" class="service_icon"  alt="compresspr"> Condenser Cleaning	</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		<li class="list-group-item"><img src="images/serviceListIcon/filter.svg" class="service_icon"  alt="filter"> AC Filter Cleaning	</li>
+																		<li class="list-group-item"><img src="images/serviceListIcon/vent.svg" class="service_icon"  alt="vent"> AC Vent Cleaning	</li>
+
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="basic_ac_service" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<span class="preferred">Popular</span>
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">All-round AC service</h3>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																			<li class="list-group-item"><img src="images/serviceListIcon/checkup.svg" class="service_icon"  alt="checkup"> Car AC inspection</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/disinfection.svg" class="service_icon"  alt="disinfection"> Disinfection and sanitization</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/ac_gas.svg" class="service_icon"  alt="ac_gas"> AC Gas Topup (Upto 600 Gms)	</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/compresspr.svg" class="service_icon"  alt="compresspr"> Compressor oil top-up</li>
+
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/cooling_coil.svg" class="service_icon"  alt="cooling_coil"> Cooling coil clean</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/compresspr.svg" class="service_icon"  alt="compresspr"> Condenser Cleaning	</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/filter.svg" class="service_icon"  alt="filter"> AC Filter Cleaning	</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/vent.svg" class="service_icon"  alt="vent"> AC Vent Cleaning	</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="all-round_ac_service" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Car Heater service</h3>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																			<li class="list-group-item"><img src="images/serviceListIcon/checkup.svg" class="service_icon"  alt="checkup"> Car heater inspection</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/ac_gas.svg" class="service_icon"  alt="ac_gas"> AC Gas Topup (Upto 400 Gms)	</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/compresspr.svg" class="service_icon"  alt="compresspr"> Condenser Cleaning	</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/filter.svg" class="service_icon"  alt="filter"> AC Filter Cleaning	</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/vent.svg" class="service_icon"  alt="vent"> AC Vent Cleaning</li>	
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="car_heater_service" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<!-- about section -->
+										<div class="inner-sec py-2 mt-5" id="custumService">
+											<div class="container py-xl-5 py-lg-3">
+												<div class="row">
+													<div class="col-lg-12 about-right">
+														
+														<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Car AC repair services offered in <span class="serviceCity"> India</span> details:   </h3>
+														<p class="mb-3">Employing a set of cutting-edge technologies, we perform a comprehensive evaluation of the air conditioning system to help maximize the cooling performance. There are a myriad of factors that can disrupt the proper functioning of a car AC and with our on point diagnostics we are able to examine and uncover every issue from faulty interior controls to more complex problems that affect the vent pressures, and overall cooling.<br/><br/>
+
+														Our skilled technicians provide quality car AC service using specialized equipments for automotive AC units. A periodic AC service involves expert diagnostics and detailed inspections with complete reconditioning of the AC system. Issues related to leaking refrigerant, clogged/broken condenser, faulty compressor belt as well as electrical problems are identified and corrected with our leading edge tools and years of experience. </p>
+
+														<p class="mb-3"><b>Choose your right fit AC service: </b>Faulty AC getting you hot under the collar? Book your car AC service with VehicleCare before summer hits. </p>
+
+														<ul class="pl-5 mb-3">
+														  <li><b>Car AC gas refill- </b> AC gas refill/top-up using state-of-the-art R134A refrigerant and AC gas charging machine. </li>
+														  <li><b>Car AC filter cleaning -</b> HVAC system full service and cleaning</li>
+														  <li><b>Car AC checkup -</b> Leakage check and fault detection using cutting edge equipments specifically for car AC diagnose</li>
+														  <li><b>Car AC Condenser cleaning-</b> AC condenser cleaning using water jet and disinfectants.</li>
+														  <li><b>Car AC Coolant Top-up-</b> Coolant refill/replacement.</li>
+														  <li><b>Car AC vent cleaning -</b> dashboard polishing and ac vent vacuuming for removing any debris or dust. </li>
+														  
+														</ul>
+
+														<p class="mb-3"><b>Warranty on car AC repair:  </b> Why get hot and bothered with unreliable local service. Get VehicleCare’s expert car AC repair service and stay cool all through summer. We promise an unconditional warranty of 100kms on all our car AC services. </p>
+
+														<p class="mt-4 pt-4 mb-3"><b>About Car AC Service:</b> Your car’s air conditioning system is an intricate component requiring maintenance at regular intervals for its proper functioning. 
+														Like a traditional air conditioner, the car AC uses 3 components namely condenser, compressor, and evaporator. Timely maintenance and proper care of these components help to reduce the wear and obtain the best cooling performance from your cooling system. </p>
+
+													</div>
+												</div>
+											</div>
+										</div>
+										<!-- //about section -->
+
+										<!-- faq -->
+										<div class="pb-lg-5 py-lg-0 py-5 mt-5">
+											<div class="container">
+												<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Frequently Asked Questions</h3>
+												<div id="accordion" class="faqList text-capitalize">
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link false" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
+											                 When should I get car ac gas refilled for my Brand name?<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse2" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              We recommended getting your car AC recharged once every year, but if you might encounter some telltale signs like a loss in cooling capacity, AC clutch failing and visible refrigerant leaks, you can bring it in and get it recharged. 
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+											                Why does my brand’s name feel moist and steamy? Has it something to do with my car AC? <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse3" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Yes, the common cause of this problem is usually debris stuck in your AC system. However moist conditions can also be caused by clogged filters. For such an issue we recommend full car AC service.
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+											                Why does my Car AC smell bad? <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse4" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											             A fusty Car AC smell can be due to disuse, generally in the winter season. After your car AC has not been used for a while, bacteria and fungus can begin to populate, producing a foul smell. We recommend you get a car AC cleaning service.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+											                How long does it take to recharge car AC? <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse8" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											               It takes about 45 minutes to re-charge your vehicle's air-conditioning system assuming there is no other fault with the AC.
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+											                 What is the VehicleCare car AC service procedure? <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse10" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              A routine car AC service involves evaluation of AC cooling performance in terms of each component: compressor, condenser, HVAC fIlter, etc, and assessing numbers against the standard range to determine further steps. Frome there cleaning, top-ups, recharges, fixes are few among the myriads of things that further go into a car AC service.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
+											                 How much does a car AC service cost?  <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse11" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              While the actual price depends on the type of service package and car model you select, VehicleCare’s car AC services and repairs start at a reasonable price of 999.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
+											                  Why is my AC blowing hot air?  <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse12" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              It is due to leakage in the refrigerant, we would recommend getting it fixed and refilling the refrigerant.
+
+											            </div>
+											          </div>
+											      </div>
+											  	</div>
+											</div>
+										</div>
+										<!-- //faq -->
+
+									</div>
+
+									<div id="service5" class="tab-pane container fade">
+										<div class="row pt-sm-4">
+											<div class="col-lg-12 about-in text-center">
+												<div class="card">
+
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<h4 class="card-title text-left ml-0 mb-3">Amaron or whatever battery</h4>
+																<div class="row">
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/denting_painting/dent1.svg" class="service_icon"  alt="dent1"> Free pick and drop</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/battery/doorstep_replace.svg" class="service_icon"  alt="doorstep_replace"> Doorstep replacement</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/battery/installation.svg" class="service_icon"  alt="installation"> Free installation</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/battery/warranty.svg" class="service_icon"  alt="warranty"> Warranty as per manufacturer </li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="amaron_or_whatever_battery" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<span class="preferred">Popular</span>
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Battery check and service</h4>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/battery/jump_start.svg" class="service_icon"  alt="jump_start"> Jumpstart service</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/battery/watertopup.svg" class="service_icon"  alt="watertopup"> Battery water top-up</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/battery/corrosion_check.svg" class="service_icon"  alt="corrosion_check"> Corrosion check </li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/battery/terminals_cleN.svg" class="service_icon"  alt="terminals_cleN"> Battery terminals cleaning</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/battery/CHECKUP.svg" class="service_icon"  alt="CHECKUP"> Complete battery health checkup </li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="battery_check_and_service" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<!-- about section -->
+										<div class="inner-sec py-2 mt-5" id="custumService">
+											<div class="container py-xl-5 py-lg-3">
+												<div class="row">
+													<div class="col-lg-12 about-right">
+														
+														<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Car Battery Services offered in <span class="serviceCity"> India</span> details:  </h3>
+														<p class="mb-3">The base of battery maintenance is preventative measures and prudent check-ups. With VehicleCare, you can choose from a variety of battery maintenance services to avoid untimely discharges and premature failures. A regular car battery service involves detailed assessment for normal range of charge, followed by cleaning of battery terminals, checks for corrosion and blight, and scanning for any malfunctions that might be caused by weather changes or sulphation. We also provide doorstep battery replacement services. You can buy from the best brands in India and our expert mechanics are always at your service in the post installation period.</p>
+
+														<p class="mb-3"><b>Choose your right fit battery replacement- </b> Consult with our expert mechanics or look for the signals of a faltering unit to assess your car battery replacement requirement. Premature failure of the car battery can be averted through a timely and quality maintenance service. </p>
+
+														<ul class="pl-5 mb-3">
+														  <li><b>Car Battery Recharge:</b> Reviving battery, Volt/AMP, battery water/acid checkup. </li>
+														  <li><b>Doorstep car battery replacement:</b> Free delivery with replacement at your doorstep </li>
+														  <li><b>Car Battery health checkup:</b> Battery health diagnosis, electrolyte check and service recommendations</li>
+														  <li><b>High-Performance Batteries-</b> Buy car batteries from the most reliable brands in India</li>
+														  
+														</ul>
+
+														<p><b>Warranty On Car Batteries- </b>  
+
+														Get warranty as per manufacturer for the car battery purchased
+														</p><br/>
+
+														<b>About Batteries: </b>
+														<p class="mt-1 mb-3">Batteries in cars are a rechargeable electrical hub that store and supply current required for the operation of all battery-powered components. A car battery is essentially designed to serve two purposes - providing the initial zap of electricity and powering all electrical components in the car. The life of a car battery is typically anywhere from 3-5 years however, its capacity starts to decline after about three years, depending on factors like driving habits/condition, charge frequency, extreme temperatures, etc. A faltering battery can have a number of symptoms including slow crank, flickering lights, check engine light, etc. Check for the various tell tale signs to avoid  </p>
+
+													</div>
+												</div>
+											</div>
+										</div>
+										<!-- //about section -->
+
+										<!-- faq -->
+										<div class="pb-lg-5 py-lg-0 py-5 mt-5 ">
+											<div class="container">
+												<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Frequently Asked Questions</h4>
+												<div id="accordion" class="faqList text-capitalize">
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link false" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
+											                Does VehicleCare provide doorstep car battery replacement?<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse2" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Yes, with VehicleCare you can avail car battery replacement from the comfort of your home.
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+											                How long does a car battery last after replacement? <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse3" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              A battery typically has a life of about 3-5 years however the longevity of your car battery depends on how well you maintain it. We recommend you get battery checkups on every periodic service. 
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+											                My battery connectors are corroded, do I need to <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse4" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Corroded connectors are a pretty clear-cut sign of a failing battery, we recommend you get your car battery replaced rather than trying to clean the terminals.
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+											                For what all brands and models do you offer car battery replacement?  <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse8" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              We provide car battery replacement for all car brands and models.
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+											                 Do I get a warranty on the car battery I purchase from VehicleCare? <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse10" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Yes, indeed. The car battery you purchase comes with the manufacturer’s warranty and is replaced for free at our workshop.
+											            </div>
+											          </div>
+											      </div>
+											  	</div>
+											</div>
+										</div>
+										<!-- //faq -->
+
+									</div>
+
+									<div id="service6" class="tab-pane container fade">
+										<div class="row pt-sm-4">
+											<div class="col-lg-12 about-in text-center">
+												<div class="card">
+
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Wheel alignment and balancing</h3>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/wheel/tire_check.svg" class="service_icon"  alt="tire_check"> Tire Inspection</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/wheel/suspension_check.svg" class="service_icon"  alt="suspension_check"> Suspension check</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/wheel/alignemnt.svg" class="service_icon"  alt="alignemnt"> Wheel alignment </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/wheel/wheel_balancing.svg" class="service_icon"  alt="wheel_balancing"> Wheel balancing</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/wheel/tire_pressure.svg" class="service_icon"  alt="tire_check"> Air Pressure Check And Adjustment</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/wheel/brake_check.svg" class="service_icon"  alt="brake_check"> Brakes Check</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/wheel/ply_steer_check.svg" class="service_icon"  alt="ply_steer_check"> Test for ply steer</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/wheel/connicity_check.svg" class="service_icon"  alt="connicity_check"> Test for tire conicity</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="wheel_alignment_and_balancing" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<!-- about section -->
+										<div class="inner-sec py-2 mt-5" id="custumService">
+											<div class="container py-xl-5 py-lg-3">
+												<div class="row">
+													<div class="col-lg-12 about-right">
+														<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Wheel Alignment and Balancing services offered in <span class="serviceCity"> India</span> details:    </h3>
+														<p class="mb-3">Wheel alignment services include tread check along with wheel orientation assessment, measuring the toe, camber, and caster. Wheel adjustments are recommended after testing both the static and dynamic aspects of your wheel and misaligned tyres are corrected adhering to the manufacturer’s recommended specifications. VehicleCare provides the best wheel alignment and balancing services, ensuring you get a long service span from your tyres and superior steer control. </p>
+
+														<p class="mb-3"><b>Choose Your Right Fit Wheel Service- </b>Potholes, side curbs, speed bumps, all can knock your wheels out of balance, Get the right wheel care at service for every problem. </p>
+
+														<ul class="pl-5 mb-3">
+														  <li><b>Tyre replacement- </b> Buy new tyres from the best brands and have them delivered at your doorstep </li>
+														  <li><b>Tyre Rotation- </b> Periodic tyre rotation to ensure the correct position of each tyre. </li>
+														  <li><b>Wheel alignment- </b> Proper Wheel Alignment to check, the tyres meet the road at a correct angle and that they are contained evenly within the wheel.</li>
+														  <li><b>Wheel Balancing- </b> Wheel balancing as per recommendations from the car manufacturer. </li>
+														  
+														</ul>
+
+														<p class="mt-4 pt-4 mb-3"><b>About Tyres And Wheel Care: </b> Daily wear and tear of commuting along with progressing tread asymmetries cause wheels to lose balance and alignment over time. This prevents you from obtaining optimum performance and also limits your safety. Improper wheel balancing and alignment can lead to uneven and faster tread wear, Along with poor fuel economy, and wobbly steering of the vehicle. Wheel balancing helps prevent premature tread wear through proper tyre weight distribution around the entire circumference of the vehicle while wheel alignment ensures a perfectly linear rotation for the efficient operation of your vehicle. </p>
+
+													</div>
+												</div>
+											</div>
+										</div>
+										<!-- //about section -->
+
+										<!-- faq -->
+										<div class="pb-lg-5 py-lg-0 py-5 mt-5">
+											<div class="container">
+												<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Frequently Asked Questions</h3>
+												<div id="accordion" class="faqList text-capitalize">
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link false" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
+											                 How long do replaced tyres last?
+															<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse2" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Though a car tyre replacement typically lasts 60000-70000 kilometres, its actual life depends on a number of factors like terrain, kind of driving, road quality, etc.
+									 
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+											                My car’s steering is a bit wobbly. Has it something to do with my wheel alignment?
+															<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse3" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											               A shaky and unstable steering wheel is most likely caused by misaligned wheels. To get wheel alignment corrected or an inspection for detecting any other cause of shaky steering, you can book wheel balancing services with VehicleCare.  
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+											                How often is tyre rotation needed?
+															 <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse4" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											             Tyres rotation is a periodical service involving changing the position of the tyres. VehicleCare recommends tyre rotation every 5,000 miles or as specified by your car manufacturer.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+											                Do larger wheels loose balance more quickly?<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse8" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											               Wheels can become unbalanced due to a variety of reasons like weather conditions, tyre deflation due to cold air, loss of wheel weight, hitting a curb, etc. However, there is no evidence for larger tyres causing the wheels to lose balance
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+											                 wheel balancing?
+															<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse10" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Uneven tread wear, shaky steering wheel, and seats are quite the telltale signs for wheel balancing. Furthermore, the imbalances in tyres can be self-determined- if the steering is wobbly, front wheels have weakened balance and if back seats are shaking, the problem lies in the rear wheels.
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
+											                 How do I know if I need a wheel alignment?
+															 <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse11" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Determining whether or not you need wheel alignment is pretty simple. If you notice your car veering slightly right or left while you are trying to maintain a steady straight movement, you can confirm, your car’s wheels are misaligned and need correction.
+
+											            </div>
+											          </div>
+											      </div>
+											      
+											  	</div>
+											</div>
+										</div>
+										<!-- //faq -->
+									</div>
+
+									<div id="service7" class="tab-pane container fade">
+										<div class="row pt-sm-4">
+											<div class="col-lg-12 about-in text-center">
+												<div class="card">
+
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Suspension Inspection</h3>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																			<li class="list-group-item"><img src="images/serviceListIcon/shocker_replacement.svg" class="service_icon"  alt="shocker replacement"> Shocker replacement</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/link_rod.svg" class="service_icon"  alt="link_rod"> Link rod replacement</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																			<li class="list-group-item"><img src="images/serviceListIcon/balll_joint.svg" class="service_icon"  alt="balll_joint"> Ball joint replacement</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/jumping_rod.svg" class="service_icon"  alt="jumping_rod"> Jumping rod replacement</li>
+
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="suspension_inspection" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+											
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Front Suspension Work</h3>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																			<li class="list-group-item"><img src="images/serviceListIcon/shocker_replacement.svg" class="service_icon"  alt="shocker replacement"> Shocker replacement</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/link_rod.svg" class="service_icon"  alt="link_rod"> Link rod replacement</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																			<li class="list-group-item"><img src="images/serviceListIcon/balll_joint.svg" class="service_icon"  alt="balll_joint"> Ball joint replacement</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/jumping_rod.svg" class="service_icon"  alt="jumping_rod"> Jumping rod replacement</li>
+
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="front_suspension_work" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+											
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Rear Suspension Work</h3>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																			<li class="list-group-item"><img src="images/serviceListIcon/shocker_replacement.svg" class="service_icon"  alt="shocker replacement"> Shocker replacement</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/link_rod.svg" class="service_icon"  alt="link_rod"> Link rod replacement</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																			<li class="list-group-item"><img src="images/serviceListIcon/balll_joint.svg" class="service_icon"  alt="balll_joint"> Ball joint replacement</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/jumping_rod.svg" class="service_icon"  alt="jumping_rod"> Jumping rod replacement</li>
+
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="rear_suspension_work" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<span class="preferred">Popular</span>
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Clutch and transmission overhaul</h3>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																			<li class="list-group-item"><img src="images/serviceListIcon/gearbox.svg" class="service_icon"  alt="gearbox"> Gearbox check and fitting </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/cluctch_bearing.svg" class="service_icon"  alt="cluctch_bearing"> Clutch BearingCheck	</li>
+
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/cluth_overhaul.svg" class="service_icon"  alt="cluth_overhaul"> Clutch Set	Replacement	</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/fly_wheel.svg" class="service_icon"  alt="fly_wheel"> Flywheel  check</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="clutch_overhaul" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Unclogging</h3>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/unclogging.svg" class="service_icon"  alt="unclogging"> Water drain and unclogging</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="transmission" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Engine Issues</h3>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/engine_misfire.svg" class="service_icon"  alt="engine_misfire"> Engine Misfiring</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/engine_overheating.svg" class="service_icon"  alt="engine_overheating"> Engine Overheating and unclogging</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="engine_issues" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Electrical issues</h3>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/ground_wire_check.svg" class="service_icon"  alt="ground_wire_check"> Ground wire check</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/ecu_check.svg" class="service_icon"  alt="ecu_check"> Ecu check</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/fuel_injection_check.svg" class="service_icon"  alt="fuel_injection_check"> Fuel injection check</li>
+
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="electrical_issues" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Steering wheel issue</h3>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/steering_wheel_correction.svg" class="service_icon"  alt="steering_wheel_correction"> Steering correction</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/suspension_check.svg" class="service_icon"  alt="suspension_check"> Suspension overhaul</li>
+
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="steering_wheel_issue" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Body damage</h3>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/paint_estoration.svg" class="service_icon"  alt="paint_estoration"> Car Denting </li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/paint_estoration.svg" class="service_icon"  alt="paint_estoration"> Paint restoration</li>
+
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="general_service_standard" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<!-- about section -->
+										<div class="inner-sec py-2 mt-5" id="custumService">
+											<div class="container py-xl-5 py-lg-3">
+												<div class="row">
+													<div class="col-lg-12 about-right">
+														
+														<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Custom Car Repair Services Offered In <span class="serviceCity"> India</span> Details:  </h3>
+														<p class="mb-3">Car repair is a tricky business and assessing it is even big of a challenge. Our detailed 40 point inspection helps you stay on top of every car problem and our custom car repair plan covers your every requirement from small fixes to the biggest of overhauls. With a team of expert mechanics, we understand the scale of car damage better than anyone and provide bespoke and affordable car repairs. </p>
+
+														<p class="mb-3"><b class="mb-2">Choose Your Right Fit Service- </b>For everything that isn’t covered elsewhere, get vehicleCare’s custom car repair services- </p>
+
+														<ul class="pl-5 mb-3">
+														    <li>Clutch Repair/Replacement</li>
+															<li>Engine Repair/Replacement </li>
+															<li>Gearbox Repair</li>
+															<li>Brakes Replacement</li>
+															<li>Electrical Issues</li>
+															<li>Oil leakage</li>
+															<li>Suspension</li>
+															<li>Don’t know?</li>
+
+														</ul>
+
+														<p><b>Warranty On Car Repair-</b> Unreliable local repairs can land you unwanted surprises whereas a quality car repair can save loads in the long run and with VehicleCare’s expert car repair you can save big on all car problems while enjoying your peace of mind. We promise an unconditional warranty of 100kms on all our custom car repair services.</p>
+
+														<b>About Custom Car Repairs: </b>
+														<p class="mt-1 mb-3">Having car troubles? just can’t seem to put your finger on it? We’ll help you out. Get custom car repair services from VehicleCare. If you are facing anything related to clutch, engine suspension, electrical system, gearbox, brakes, or even something you don’t know of, just submit your problem and we’ll revert with a free estimate for your car within an hour.</p>
+
+													</div>
+												</div>
+											</div>
+										</div>
+										<!-- //about section -->
+
+										<!-- faq -->
+										<div class="pb-lg-5 py-lg-0 py-5 mt-5">
+											<div class="container">
+												<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Frequently Asked Questions</h3>
+												<div id="accordion" class="faqList text-capitalize">
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link false" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
+											                What are VehicleCare’s Custom Repair Services?<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse2" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Our custom car repair services are an extension of our top-class services that accommodates solutions for any and every issue you might be facing with your car. Be it strange noises from the hood or vibrations in the steering wheel, VehicleCare is your one-stop solution.
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+											                Why is my check engine light on? <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse3" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              The check engine is responsible for alerting the driver of any potential problem detected by the vehicle’s diagnostic system. It is a good indication of whether you need your car repaired or not. If your check engine light is blinking it can indicate a host of problems with your vehicle and it is imperative to get your inspected by an expert.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+											                Does it hurt my engine if I drive my car with the check engine light on? <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse4" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              It is possible but not always. However, you should get your car checked as soon as possible because you may be delaying a minor car repair that might turn into a hefty one.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+											                Why is it necessary to replace the timing belt at a regular interval? <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse8" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Not replacing the timing belt at regular intervals can lead to major engine damage and can bring you serious car repair bills. The cost of replacing a timing belt does not even come close to the cost of an engine repair which can also vary depending on the severity of the damage.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+											                Why does my car overheat when idling? <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse10" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Vehicle overheating of any kind is a serious problem that should not be made light of. Continual heating of the car can potentially damage the engine and compromise your safety. You should not try to look into this matter by yourself as it is not a DIY task and the searing components in a car can be dangerous to inspect. It is recommended to turn the engine off immediately and have your car towed to VehicleCare’s car repair garage.
+
+											            </div>
+											          </div>
+											      </div>
+											  	</div>
+											</div>
+										</div>
+										<!-- //faq -->
+
+									</div>
+
+									<div id="service8" class="tab-pane container fade">
+										<div class="row pt-sm-4">
+											<div class="col-lg-12 about-in text-center">
+												<div class="card">
+
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Insurance (Accidental repairs)</h4>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/insurance/claim_intimate.svg" class="service_icon"  alt="claim_intimate"> Claim intimation</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/insurance/liasing_2.svg" class="service_icon"  alt="liasing_2"> Liaising with insurance company</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    <li class="list-group-item"><img src="images/serviceListIcon/denting_painting/dent1.svg" class="service_icon"  alt="dent1"> Free Pick & Drop</li>
+																			<li class="list-group-item"><img src="images/serviceListIcon/insurance/cashless.svg" class="service_icon"  alt="cashless"> Free Consultation</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="general_service_standard" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+										</div>
+
+										<!-- about section -->
+										<div class="inner-sec py-2 mt-5" id="custumService">
+											<div class="container py-xl-5 py-lg-3">
+												<div class="row">
+													<div class="col-lg-12 about-right">
+														<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Service details for insurance claim in <span class="serviceCity"> India</span>:    </h3>
+														<p class="mt-4 pt-4 mb-3">We truly believe in providing a hassle-free and personalized experience to our customers that is why we take on the entire insurance claim procedure on your behalf to help you avoid the hustle and bustle of obtaining financial compensation for your car repair.</p>
+
+														
+														<ul class="pl-5 mb-3">
+														  	<li><b>Car Insurance Claim:</b> Full Assistance on Insurance claims, from claim intimation to claim approva/li>l. 
+
+															<li><b>Accidental Repairs:</b> Repairs compensated for by insurance policy</li>
+
+															<li><b>Roadside Assistance/Towing Service:</b> Car towing from road to garage.</li>
+
+															<li><b>Damage Assessment:</b> 40 points thorough check-up with policy advice.</li>
+
+															<li><b>Policy Inspection (Free): </b>clarifying doubts around the Insurance policy, assessing expenditure, and connecting with the insurance agent.</li>
+														  
+														</ul>
+
+														
+
+														<b>About Insurance Claims:</b> 
+
+														<p class="mb-3"> Repairs are expensive and they hurt even more when it’s not your fault. An unavoidable dent or negligence on someone else’s part is when car insurance truly pays off. Our tie-ups with all car insurance companies in India take the hassles out of your claim procedure and help you obtain compensation much faster. For any queries or assistance, our insurance team is always at your service from the initial stage of appeal to the final approval of compensation for damages.</p>
+														
+													</div>
+												</div>
+											</div>
+										</div>
+										<!-- //about section -->
+
+										<!-- faq -->
+										<!-- <div class="pb-lg-5 py-lg-0 py-5 mt-5">
+											<div class="container">
+												<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Frequently Asked Questions</h3>
+												<div id="accordion" class="faqList text-capitalize">
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link false" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
+											                 How do you ensure matching colors when the whole car is not painted?
+															<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse2" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Our workshops are highly equipped and possess years of experience working with cars. We are familiar with every manufacturer’s paint scheme and are skilled at mixing colors to get the right shade for your car.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+											               How long will it take to paint my car?
+															<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse3" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											               You can expect a full-body paint to take around 2-3 days. There are different layers of paint and sealers applied and the final coating takes around 24 hours to dry.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+											                When can I start washing my car after denting and painting service?
+															 <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse4" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											             You can begin to wash your car with cool water a few days after the denting and painting service. However, any kind of rigorous washing or waxing should be put off for at least 90 days as you need to let the paint sit and harden on the surface of your car.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+											                What kinds of damages are your workshops equipped to repair?
+															<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse8" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											               Our workshops are fully equipped and trained to fix any kind of dent/scratch/scrape on any kind of body. We make use of state-of-the-art tools and equipment specially designed for denting and painting services.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+											                 Is free pickup and drop service available for denting and painting service?
+
+															<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse10" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Yes, with VehicleCare you get free pick up and drop service plus roadside assistance in case you need your car towed.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
+											                 Does VehicleCare provide a warranty for denting and painting services?
+															 <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse11" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Yes, indeed, VehicleCare provides a complete 2 years warranty on denting and painting services.
+
+											            </div>
+											          </div>
+											      </div>
+											      
+											  	</div>
+											</div>
+										</div> -->
+										<!-- //faq -->
+
+									</div>
+
+									<div id="service9" class="tab-pane container fade">
+										<div class="row pt-sm-4">
+											<div class="col-lg-12 about-in text-center">
+												<div class="card">
+
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Basic (Every 5,000 kms / 3 months |1 month warranty Takes 3 hours)</h3>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    
+																		    <li class="list-group-item">Air Filter Cleaned</li>
+																		    <li class="list-group-item">Oil Filter Replace</li>
+																		    <li class="list-group-item">Engine Oil Replace</li>
+																		    <li class="list-group-item">Battery Water Top Up</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    
+																		    <li class="list-group-item">Coolant Top Up</li>
+																		    <li class="list-group-item">Spark Plugs Cleaned</li>
+																		    <li class="list-group-item">Car Wash Included</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="general_service_standard" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<span class="preferred">Popular</span>
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Standard (Every 10,000 kms / 6 months | 1 month warrantyTakes 6 hours)</h3>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    
+																		    <li class="list-group-item">Air Filter Replace</li>
+																		    <li class="list-group-item">Cabin Filter / AC Filter Cleaned</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    
+																		    <li class="list-group-item">Brake Fluid Top-up</li>
+																		    <li class="list-group-item">Brake Pads Serviced</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="general_service_standard" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-lg-12 about-in text-center mt-3">
+												<div class="card">
+													<div class="card-body">
+														<div class="row">
+															
+															<div class="col-lg-12 borderless">
+																<div class="row">
+																	<h4 class="card-title text-left ml-3 mb-3">Comprehensive (Every 20,000 kms / 1 year | 1 month warranty Takes 8 hours)</h3>
+																	
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    
+																		    <li class="list-group-item">Wheel Alignment Included</li>
+																		    <li class="list-group-item">Wheel Balancing Included</li>
+																		    <li class="list-group-item">Tyre Rotation Included</li>
+																		</ul>
+																	</div>
+																	<div class="col-lg-6">
+																		<ul class="list-group list-group-flush">
+																		    
+																		    <li class="list-group-item">Fuel Filter Replaced</li>
+																		    <li class="list-group-item">Gear Oil Top-up</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<span id="general_service_standard" class="text-grey pull-left priceTag mt-3">Variable Charges</span>
+
+														<button class="addToCart btn btn-sm pull-right mt-3">+ Add to cart</button>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<!-- about section -->
+										<div class="inner-sec py-2 mt-5" id="custumService">
+											<div class="container py-xl-5 py-lg-3">
+												<div class="row">
+													<div class="col-lg-12 about-right">
+														<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">About Insurance Claims:</h3>
+														<p class="mt-4 pt-4 mb-3">Repairs are expensive and they hurt even more when it’s not your fault. An unavoidable dent or negligence on someone else’s part is when car insurance truly pays off. Our tie-ups with all car insurance companies in India take the hassles out of your claim procedure and help you obtain compensation much faster. For any queries or assistance, our insurance team is always at your service from the initial stage of appeal to the final approval of compensation for damages.</p>
+
+														<p class="mb-3"><b>Service details for insurance claim in <span class="serviceCity"> India</span>:  </b>We truly believe in providing a hassle-free and personalized experience to our customers that is why we take on the entire insurance claim procedure on your behalf to help you avoid the hustle and bustle of obtaining financial compensation for your car repair. </p>
+
+														<ul class="pl-5 mb-3">
+														  	<li><b>Car Insurance Claim:</b> Full Assistance on Insurance claims, from claim intimation to claim approval. </li>
+
+															<li><b>Accidental Repairs:</b> Repairs compensated for by insurance policy</li>
+
+															<li><b>Roadside Assistance/Towing Service:</b> Car towing from road to garage.</li>
+
+															<li><b>Damage Assessment:</b> 40 points thorough check-up with policy advice.</li>
+
+															<li><b>Policy Inspection (Free):</b> clarifying doubts around the Insurance policy, assessing expenditure, and connecting with the insurance agent.</li>
+
+														</ul>
+													</div>
+												</div>
+											</div>
+										</div>
+										<!-- //about section -->
+
+										<!-- faq -->
+										<div class="pb-lg-5 py-lg-0 py-5 mt-5">
+											<div class="container">
+												<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Frequently Asked Questions</h3>
+												<div id="accordion" class="faqList text-capitalize">
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link false" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
+											                 How do you simplify the car Insurance claim process?
+															<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse2" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              We provide full assistance on the car insurance claim procedure from claim intimation, liaising with the insurance company to getting approval from the surveyor.
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+											               My car isn’t in working condition, how do I get it to the garage?
+															<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse3" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											               No worries, get roadside assistance from VehicleCare. We will tow your car from anywhere across the city to the garage.
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+											                what all documents do I need to present to file for an insurance claim?
+															 <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse4" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											             Copy of insurance policy, copy of the registration certificate, copy of driving license, duly filled and signed claim form, FIR and medical receipts (in case of third party damage)
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+											                what sort of spare parts do you use for my car repair under insurance?
+															<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse8" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              We only use genuine spares specified by the insurance company for your car repair under insurance.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+											                 I have a comprehensive Insurance policy for my car. Do I have coverage for a broken windshield?
+															<i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse10" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Yes, you have full coverage for glass replacement under the comprehensive car Insurance Policy however any kind of body damage (metal or plastic) is limited to 50% coverage. For any other queries, feel free to connect, we provide free policy inspection.
+
+											            </div>
+											          </div>
+											      </div>
+											      <div class="card">
+											          <div class="card-header" id="headingOne">
+											            <h5 class="mb-0">
+											              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
+											                 How many times can I file for a claim in one year with my zero depreciation insurance policy? 
+
+															 <i class="fa fa-chevron-down"></i>
+											              </button>
+											            </h5>
+											          </div>
+											          <div id="collapse11" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+											            <div class="card-body">
+											              Zero depreciation insurance policy only offers 2 claims in a single year.
+											            </div>
+											          </div>
+											      </div>
+											      
+											  	</div>
+											</div>
+										</div>
+										<!-- //faq -->
+
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-4" id="fixedDivScroll">
+					<div class="col-lg-12 mb-2">
+						<ul class="nav">
+						  <li class="nav-item">
+						    <a class="nav-link" onclick="shareFunction()" href="service.php@tab=service3#"> <i class="fa fa-share-alt"></i> Share</a>
+						  </li>
+						  <!-- <li class="nav-item">
+						    <a class="nav-link" href="#"><i class="fa fa-heart"></i> Save</a>
+						  </li> -->
+							<li class="nav-item pull-right">
+								<a href="service.php@tab=service3#testi">
+							    	<span class="fa fa-star checked"></span>
+									<span class="fa fa-star checked"></span>
+									<span class="fa fa-star checked"></span>
+									<span class="fa fa-star checked"></span>
+									<span class="fa fa-star"></span>
+								</a>
+						  </li>
+						 
+						</ul>
+					</div>
+					<div class="comment-top formBoxShadow cartScrollerView" >
+						<span onclick="changeCarBrand();" class="btn ml-2 text-secondary changeCar pull-right" size="3">Change Car</span>
+						<h6 class="p-2"><span class="" id="carDetails">Brand Model</span></h6>
+						<div class="cartShowModalBrand isHidden">
+							<form id="selectBrandModel">
+							<div class="form-group mb-3">
+									<select onchange="createCookie('selected_carBrandName', this.value, 10);onBrandChange(this.value, '.car_model_modal');createCookie('selected_carBrandModel', '', 10);" class="car_brand">
+										<option>Select Your Brand</option>
+									</select>
+								</div>
+
+								<div class="form-group">
+									<select onchange="createCookie('selected_carBrandModel', this.value, 10);getNewServiceList(this.value, '.car_brand');" class="car_model_modal">
+										<option>Select Your Model</option>
+									</select>
+								</div>
+							</form>
+						</div>
+						<div id="cartItems" class="border-top"><h6 class="mb-3 text-center text-secondary pt-3">No Service Selected</h6></div>
+						<div class="field form-group">
+							<input type="text" name="" placeholder="Coupon Code" id="couponCode" class="form-control border rounded">
+							<i class="fa fa-check" id="applyCoupon" aria-hidden="true"></i>
+						</div>
+						<style>
+							.field {
+								position: relative;
+								margin: 10px;
+							}
+
+							.field i.fa {
+								position: absolute;
+								border: 1px solid whitesmoke;
+								top: 1px;
+								right: 0px;
+								height: 95%;
+								padding: 15px 3px;
+								background-color: whitesmoke;
+								cursor: pointer;
+							}
+						</style>
+						<div>
+							<h5 class="text-secondary p-2 pt-3 border-top">Coupon Discount<span class="pull-right discount">&#8377; 0</span></h5>
+							<h5 class="p-2 pt-3 border-top">Grand Total<span class="pull-right text-secondary grandAmount">&#8377; 0</span></h5>
+						</div>
+						<!-- <div>
+							<h5 class="p-2 pt-3 border-top">Grand Total<span class="pull-right text-secondary grandAmount">&#8377; 0</span></h5>
+						</div> -->
+						<button disabled type="submit" id="checkoutCart" class="btn btn-danger btn-md btn-block mt-4 submit">Checkout</button>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<!-- //about section -->
+
+	<!-- testimonials -->
+	<div class="testimonials py-3" id="testi">
+		<div class="container-fluid pl-5 pr-5 py-xl-5 py-lg-3">
+			<h3 class="title-w3 mb-5 font-weight-bold text-left">Our Happy Customers</h3><br/>
+			<div class="pb-5" data-ride="carousel">
+
+				<div class="row">
+					<div class="col-lg-4">
+						<div class="col-lg-12 w3_testimonials_grid ">
+							<h4 class="text-light">Amazing service provider VC I must recommend same quality which other famous brands provides but in less price they even don’t try to make your bill high which other service provider do by saying some parts need to change every product which needs to be replaced new packing is removed infront of u before putting it in ur car genuine products used. 😊👍
+							</h4>
+							<h5 class="mt-3">Vinay Kaushik <img src="https://vehiclecare.in/images/te1.jpeg" alt=" " vspace="5" class="img-fluid rounded-circle" /></h5>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="col-lg-12 w3_testimonials_grid ">
+							<h4 class="text-light">When ever I have visited the service center, I was treated like a family.I would give them 10 /10, for customer satisfaction, they explain every single detail. Keep you informed every time. I get calls every time I need to get my car serviced. Recommendable
+							</h4>
+							<h5 class="mt-3">Harkesh Singh <img src="https://vehiclecare.in/images/te2.png" alt=" " vspace="5" class="img-fluid rounded-circle" /></h5>
+						</div>
+
+					</div>
+					<div class="col-lg-4">
+						<div class="col-lg-12 w3_testimonials_grid ">
+							<h4 class="text-light">My car had some electrical issue, the service executive came at my place to examine the car and I was very surprised when the price quoted by him was much lesser than the estimate given by Honda service station. I am very happy with the work done on my car, thank you Vehiclecare.
+							</h4>
+							<h5 class="mt-3">Shravan Kumar <img src="https://vehiclecare.in/images/te3.jpeg" alt=" " vspace="5" class="img-fluid rounded-circle" /></h5>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //testimonials -->
+
+	
+	<style>
+	.cityCells img{
+		border-radius: 100%;
+		width: 50px;
+		height: 50px;
+		margin: 8px 0px 8px 0px;
+	}
+</style>
+<div class="modal fade" id="city" tabindex="-1" role="dialog" aria-labelledby="cityLabel" aria-hidden="true">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content p-3">
+		
+		<!-- Modal Header -->
+		<div class="modal-header">
+			<h4 class="modal-title">Select City</h4>
+			<button type="button" class="close" data-dismiss="modal">&times;</button>
+		</div>
+		
+		<!-- Modal body -->
+		<div class="modal-body">
+			<div class="row text-center" id="cityCells"></div>
+		</div>
+			
+		</div>
+	</div>
+</div>
+
+<!-- footer -->
+<footer>
+	<div class="w3ls-footer-grids py-4" id="footer" style="background: url('https://vehiclecare.in/images/vehiclecaerfooter.png');">
+		<div class="container py-xl-2 py-lg-3">
+			<div class="row">
+				<div class="col-lg-12 text-center mb-4">
+					<a class="navbar-brand font-weight-bold" href="https://vehiclecare.in/index.php">
+						<img src="https://vehiclecare.in/images/logo.svg" class="logo">
+					</a>
+					<!-- <p class="mt-4">We pride ourselves on delivering the very best and hassle-free car services. Our cost-effective solutions and highly equipped workshops help our customers find the right solution for their car problems every day. We’ve made it easier to book car service on the go, choose from a wide range of car services, view estimates and get your right fit. -->
+					</p>
+					<div class="col-lg-12 w3social-icons text-center mt-lg-0 mt-3">
+						<ul>
+							<li>
+								<a href="https://www.facebook.com/vehiclecare.in" class="" target="_blank">
+									<i class="fa fa-facebook-f"></i> Facebook
+								</a>
+							</li>
+							<li class="px-2">
+								<a href="https://www.instagram.com/vehiclecare.in/?hl=en" class="" target="_blank">
+									<i class="fa fa-instagram"></i> Instagram
+								</a>
+							</li>
+							<li>
+								<a href="https://twitter.com/vehiclecare1" class="" target="_blank">
+									<i class="fa fa-twitter"></i> Twitter
+								</a>
+							</li>
+							<li>
+								<a href="https://www.linkedin.com/company/13583565/admin/" class="" target="_blank">
+									<i class="fa fa-linkedin"></i> Linkedin
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				
+				<!-- button -->
+				<div class="col-lg-6 w3l-footer text-lg-right text-center mt-3 isHidden">
+					<h5 class="text-left footerHeading">Popular Searches</h5>
+					<div class="row">
+						<ul class="list-unstyled footer-nav-wthree col-lg-6" id="popularSearchDom">
+							<li class="mr-4"> <a href="service.php@tab=service3#" class="active">Car Service In Gurgaon </a></li>
+						</ul>
+						<ul class="list-unstyled footer-nav-wthree col-lg-6" id="popularSearchDomService">
+							<li class="mr-4"> <a href="service.php@tab=service3#" class="active">Car Service In Gurgaon </a></li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="col-lg-3 w3l-footer text-lg-right text-center mt-3">
+					<h5 class="text-left footerHeading">Popular Services</h5>
+					<ul class="list-unstyled footer-nav-wthree">
+							<li class="mr-4"> <a class="" href="service.php@tab=service3#">All Service</a></li>
+							<li class="mr-4"> <a class="" href="service.php@tab=service3#">General Service</a></li>
+							<li class="mr-4"> <a class="" href="service.php@tab=service3#">Custom Repairs</a></li>
+							<li class="mr-4"> <a class="" href="service.php@tab=service3#">Car Cleaning</a></li>
+							<li class="mr-4"> <a class="" href="service.php@tab=service3#">AC/Heater Service</a></li>
+							<li class="mr-4"> <a class="" href="service.php@tab=service3#">Denting And Painting</a></li>
+					</ul>
+				</div>
+				<!-- //button -->
+				
+				<div class="col-lg-3 w3l-footer text-lg-right text-center mt-3">
+					<h5 class="text-left footerHeading">Company</h5>
+					<ul class="list-unstyled footer-nav-wthree">
+							<li class="mr-4"> <a class="" href="https://vehiclecare.in/about.php">About</a></li>
+							<li class="mr-4"> <a class="" href="service.php@tab=service3#">Faq</a></li>
+							<li class="mr-4"> <a class="" href="https://vehiclecare.in/career.php">Careers</a></li>
+							<li class="mr-4"> <a class="" href="https://vehiclecare.in/contact.php">Contact Us</a></li>
+							<li class="mr-4"> <a class="" target="_blank" href="http://partner.vehiclecare.in/">Workshop Locator</a></li>
+							<li class="mr-4"> <a class="" href="https://vehiclecare.in/TermsCondition.php">Term & Conditions</a></li>
+							<li class="mr-4"> <a class="" href="https://vehiclecare.in/privacyPolicy.php">Privacy Policy</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="pt-lg-4 pt-3 text-center">
+				<!-- copyright -->
+				<p class="copy-right-grids mt-lg-1">© <script>document.write(new Date().getFullYear())</script> Copyright Houseneed Doorstep Services Private Limited. All rights reserved</a>
+				</p>
+				<!-- //copyright -->
+			</div>
+		</div>
+	</div>
+</footer>
+<!-- //footer -->
+
+<div class="modal fade" id="brandModelModal" tabindex="-1" role="dialog" aria-labelledby="modelTitleId" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title">Select Car Brand And Model</h5>
+				</div>
+				<div class="modal-body">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="form-group col-md-12">
+								<select onchange="createCookie('selected_carBrandName', this.value, 10);onBrandChange(this.value, '.car_model_modal');createCookie('selected_carBrandModel', '', 10);" class="car_brand car_brand_modal form-control">
+									<option>Select Your Brand</option>
+								</select>
+							</div>
+
+							<div class="form-group col-md-12">
+								<select onchange="createCookie('selected_carBrandModel', this.value, 10);getNewServiceList(this.value, '.car_brand_modal');" class="car_model_modal form-control">
+									<option>Select Your Model</option>
+								</select>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+<!-- Js files -->
+<!-- JavaScript -->
+<script src="https://vehiclecare.in/js/jquery-2.2.3.min.js"></script>
+<!-- Default-JavaScript-File -->
+<script src="https://vehiclecare.in/js/bootstrap.js"></script>
+<!-- Necessary-JavaScript-File-For-Bootstrap -->
+
+<!-- fixed navigation -->
+<script src="https://vehiclecare.in/js/fixed-nav.js"></script>
+<!-- //fixed navigation -->
+<!-- optional js -->
+<script src="https://vehiclecare.in/js/actions.js"></script>
+<!-- optional js -->
+<!-- dropdown smooth -->
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script src="https://www.gstatic.com/firebasejs/7.19.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.19.0/firebase-auth.js"></script>
+<script>
+	window.OneSignal = window.OneSignal || [];
+	OneSignal.push(function() {
+		OneSignal.init({
+		appId: "d6682313-c14e-4eae-a58a-7b078780b579",
+		});
+	});
+</script>
+<script>
+	$(document).ready(function () {
+			$(".dropdown").hover(
+				function () {
+					$('.dropdown-menu', this).stop(true, true).slideDown("fast");
+					$(this).toggleClass('open');
+				},
+				function () {
+					$('.dropdown-menu', this).stop(true, true).slideUp("fast");
+					$(this).toggleClass('open');
+				}
+			);
+		});
+	</script>
+<!-- //dropdown smooth -->
+
+<!-- search plugin -->
+<!-- pop-up-box -->
+<link href="https://vehiclecare.in/css/popuo-box.css" rel="stylesheet" type="text/css" media="all" />
+<script src="https://vehiclecare.in/js/jquery.magnific-popup.js"></script>
+<!-- //pop-up-box -->
+<!-- search script -->
+<script>
+	$(document).ready(function () {
+		$('.popup-with-zoom-anim').magnificPopup({
+			type: 'inline',
+			fixedContentPos: false,
+			fixedBgPos: true,
+			overflowY: 'auto',
+			closeBtnInside: true,
+			preloader: false,
+			midClick: true,
+			removalDelay: 300,
+			mainClass: 'my-mfp-zoom-in'
+		});
+		getAllCitiesNames();
+	});
+
+	$(function() {
+		$('#navbarSupportedContent ul li a').filter(function() {
+			return this.href == location.href
+		}).parent().addClass('active').siblings().removeClass('active')
+		$('#navbarSupportedContent ul li a').click(function() {
+			$(this).parent().addClass('active').siblings().removeClass('active')
+		})
+	});
+	function branchName(){
+		const element = $('#cityCells');
+		const elementSearch = $('#popularSearchDom');
+		const elementSearchService = $('#popularSearchDomService');
+		getBranchNames((response) => {
+				result = JSON.parse(response);
+				element.html('');
+				elementSearch.html('');
+				elementSearchService.html('');
+				$.each(result, function(key, val){
+					element.append(createCityViewCells(val));
+				});
+		});
+	}
+	const getAllCitiesNames = () => {
+		const selectedCityName = readCookie('selectedCityName');		
+		if (selectedCityName){
+				$( ".citySelect" ).empty();
+				$( ".citySelect" ).append(selectedCityName);
+		}
+
+		else if (!selectedCityName){
+			branchName();
+			$('#city').modal('show');
+		}
+		else{
+			var url_string = window.location.href;
+			var url = new URL(url_string);
+			var num = url_string.indexOf("?")+1
+			var cityName = url.searchParams.get("city");
+			if(!cityName){
+				if(url_string.indexOf('?') > 0){
+					location.href = url_string+'&city='+selectedCityName;
+				}else{
+					location.href = url_string+'?city='+selectedCityName;
+				}
+			}
+		}
+	}
+	function removeParam(key, sourceURL) {
+		var rtn = sourceURL.split("?")[0],
+			param,
+			params_arr = [],
+			queryString = (sourceURL.indexOf("?") !== -1) ? sourceURL.split("?")[1] : "";
+		if (queryString !== "") {
+			params_arr = queryString.split("&");
+			for (var i = params_arr.length - 1; i >= 0; i -= 1) {
+				param = params_arr[i].split("=")[0];
+				if (param === key) {
+					params_arr.splice(i, 1);
+				}
+			}
+			if (params_arr.length) rtn = rtn + "?" + params_arr.join("&");
+		}
+		return rtn;
+	}
+	$('body').on('click', '#city .cityCells', function(){
+		$('#city .cityCells').removeClass('selected');
+		$(this).addClass('selected');
+		createCookie('selectedCity', $(this).data('city'), 100);
+		createCookie('selectedCityName', $(this).data('name'), 100);
+		var url_string = window.location.href;
+		url_string = removeParam("city", url_string);
+		if(url_string.indexOf('?') > 0){
+			location.href = url_string+'&city='+$(this).find('h6').text();
+		}else{
+			location.href = url_string+'?city='+$(this).find('h6').text();
+		}
+	});
+
+	$('#city').on('show.bs.modal', function() {
+ 		branchName();
+	})
+
+</script>
+
+<script>
+  $(window).load(function() {
+    $('#loader').hide();
+  });
+</script>
+
+<script>
+//Get the button
+var mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+if(mybutton){
+	if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5a8beff3d7591465c707d370/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+<!-- smooth scrolling -->
+<script src="https://vehiclecare.in/js/SmoothScroll.min.js"></script>
+<!-- move-top -->
+<script src="https://vehiclecare.in/js/move-top.js"></script>
+<!-- easing -->
+<script src="https://vehiclecare.in/js/easing.js"></script>
+<!--  necessary snippets for few javascript files -->
+<script src="https://vehiclecare.in/js/inside.js"></script>
+
+<script src="https://vehiclecare.in/js/bootstrap.js"></script>
+<!-- Necessary-JavaScript-File-For-Bootstrap -->
+<!-- //Js files -->
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+	<link rel="stylesheet" href="css/service.css" type="text/css" media="all" />
+
+	<script type="text/javascript">
+		
+
+		var query = new URLSearchParams(window.location.search);
+		var tab = query.get('tab');
+		$('a[href="#'+ tab +'"]').tab('show')
+		$type = '';
+		$(document).scroll(function() {
+		  var $self = $("#fixedDivScroll");
+		  $self.css('margin-top', 0);
+		  var fixedDivOffset = $self.offset().top + $self.outerHeight(true);
+		  if (fixedDivOffset > ($("#testi").offset().top - 30)) {
+		    $self.css('margin-top', -(fixedDivOffset - $("#testi").offset().top));
+			$('#serviceNav').hide();
+		  } else {
+		    $self.css('margin-top', '7.5em');
+			$('#serviceNav').show();
+		  }
+		});
+
+		
+		
+		$('#serviceNav a.nav-link').on('shown.bs.tab', function(e) {
+		  var href = $(this).attr('href');
+		  $('html, body').animate({
+		    scrollTop: $(href).offset().top-400
+		  }, 1000);
+		});
+
+		$body = $('body');
+		$cartArray = [];
+		$priceServiceArray = [];
+		$carDetails = {};
+		const citySelectedName = readCookie('selectedCityName');
+		if (citySelectedName){
+			$( ".serviceCity" ).empty();
+			$( ".serviceCity" ).append(citySelectedName);
+		}
+		$(document).ready(function() {
+			localStorage.removeItem('cartArray');
+			localStorage.removeItem('carDetails');
+			const citySelected = readCookie('selectedCityName');
+			var url_string = window.location.href;
+			var url = new URL(url_string);
+			var tab = url.searchParams.get('tab');
+			var	brandId = readCookie("selected_carBrandName")
+			var	modelId = readCookie("selected_carBrandModel")
+			// Redirect to Mobile View if from mobile
+			if(window.innerWidth <= 800){
+				location.href = `serviceMobile.php?city=${citySelectedName}&brandName=${brandId}&modelName=${modelId}`;
+				return false;
+			};
+			var isExist = readCookie('userMobile');
+			if(isExist && isExist != ''){
+				const params = {
+					carBrand: brandId,
+					carModel: modelId,
+					mobile: isExist
+				};
+				newPendingEntry(params);
+			}
+			
+
+			if (citySelected){
+				if(!brandId || !modelId ){
+					changeCarBrand();
+					$('#brandModelModal').modal('show');
+					return false;
+				}
+			}
+
+
+			
+			// $('#brandModelModal').modal('show');
+			// getCarDetails({brandId:brandId, modelId:modelId});
+
+			$carDetails = {brandId, modelId	};
+			getCarDetails({brandId, modelId}, (response) => {
+				result = JSON.parse(response);
+				$type = result.type;
+				$('#carDetails').html(`${result.brand} ${result.model}`);
+			});
+			if (modelId) {
+				getPrices({modelId}, (response) => {
+					result = JSON.parse(response);
+					$priceServiceArray = result;
+					$.each(result, function(key,val){
+						var serviceId = val.service_name;
+						var price = val.price || 'Not Available';
+						var id = val.id;
+						$('#'+serviceId.toLowerCase().replace(/\//g, "").replace(/\)/g, "").replace(/\(/g, "").replace(/ /g, "_"))
+							.html('&#8377;'+price).next('button').attr({'data-id': id, 'data-price': price, 'disabled': false});
+					});
+				});
+			}
+			var couponResponse = localStorage.getItem('couponData');
+			if(couponResponse){
+				couponResponse = JSON.parse(couponResponse);
+				if(couponResponse && couponResponse.code){
+					$('#couponCode').val(couponResponse.code);
+				}
+			}
+		});
+		// $('#brandModelModal').on('hidden.bs.modal', () => {
+		// 	var url_string = window.location.href;
+		// 	var url = new URL(url_string);
+		// 	var brandId = url.searchParams.get("bid");
+		// 	var modelId = url.searchParams.get("mid");
+		// 	if(!brandId || !modelId){
+		// 		location.href = 'index.php';
+		// 		return false;
+		// 	}
+		// })
+		$body.on('click', '#applyCoupon', (event) => {
+			event.preventDefault();
+			var code = $('#couponCode').val().trim();
+			if(!code) return false;
+			var misc_data = JSON.stringify($type);
+			validateCouponCode({code, source: 'flipkart', misc_data}, (response) => {
+				localStorage.setItem('couponData', response);
+				response = JSON.parse(response);
+				if(response && response.code){
+					alert('Coupon Code applied..!!');
+				}else{
+					$('#couponCode').val('');
+					alert('Not a Valide Coupon Code..!!');
+				}
+				showCartService();
+			});
+		});
+
+		function changeCarBrand(){
+			getBrandNames((response) => {
+				var $selectCarBrand = $('.car_brand');
+				result = JSON.parse(response);
+				$selectCarBrand.html('');
+				$selectCarBrand.append('<option value="">Select Your Brand</option>');
+
+				$.each(result, function(key,val){
+					var brand = val.car_brand;
+					var id = val.id;
+					$selectCarBrand.append('<option name="'+brand+'" value="'+id+'">' + brand + '</option>');
+				});
+			});
+		}
+
+		function onBrandChange(id, element) {
+			getModelNames(id, (response) => {
+				$selectCarModel = $(element);
+				result = JSON.parse(response);
+				$selectCarModel.html('');
+				$selectCarModel.append('<option value="">Select Your Model</option>');
+
+				$.each(result, function(key,val){
+					var brand = val.model_name;
+					var id = val.id;
+					$selectCarModel.append('<option name="'+brand+'" value="'+id+'">' + brand + '</option>');
+				});
+			});
+		}
+		
+		const getNewServiceList = (id, element) => {
+			var carBrand = $(element).val().trim();
+			getCarDetails({brandId: carBrand, modelId: id}, (response) => {
+				result = JSON.parse(response);
+				location.href = `service.php?city=${citySelectedName}&brandName=${result.brand.replace(/ /g,"_")}&modelName=${result.model.replace(/ /g,"_")}`;
+			});
+		}
+		const showCartService = () => {
+			var totalPrice = 0;
+			var discountVal = 0;
+			if($cartArray.length){
+				$selectedCart = $('#cartItems');
+				$selectedCart.html('');
+				$.each($cartArray, function(key,val){
+					var name = val.service_name;
+					var price = val.price;
+					var id = val.id;
+					totalPrice += parseInt(price, 0);
+					$selectedCart.append('<div class="selectedItem pt-2 pb-2"><span data-id="'+id+'" class="removeCart"><i class="fa fa-trash text-danger mr-2"></i></span><span class="serviceName">'+name+'</span><span class="pull-right">&#8377; '+price+'</span></div>');
+				});
+				var couponResponse = localStorage.getItem('couponData');
+				if(couponResponse){
+					couponResponse = JSON.parse(couponResponse);
+					if(couponResponse && couponResponse.code){
+						$('#couponCode').val(couponResponse.code);
+						var discountParam = couponResponse.value;
+						discountVal = discountParam;
+						if(discountParam.includes("%")){
+							discountVal = parseFloat((totalPrice * parseFloat(discountParam))/100).toFixed(2);
+						}
+					}
+				}
+				$('#checkoutCart').prop('disabled', false);
+			}else{
+				$('#cartItems').html('<h6 class="mb-3 text-center text-danger pt-3">No Service Selected</h6>');
+				$('#checkoutCart').prop('disabled', true);
+			}
+			totalPrice -= discountVal;
+			$('.discount').html('&#8377; '+discountVal);
+			$('.grandAmount').html('&#8377; '+totalPrice);
+		}
+		$body.on('click', '.changeCar', () => {
+			$('.cartShowModalBrand').toggleClass('isHidden');
+		});
+		$body.on('click', '.removeCart', function() {
+			const data = $(this).data();
+			$('.addToCart.selected[data-id="'+data.id+'"]').removeClass('selected').html('+ Add to cart');
+			$cartArray = $cartArray.filter((service) => parseInt(service.id, 0) !== data.id);
+			showCartService();
+		});
+		$body.on('click', '.addToCart.selected', function() {
+			const data = $(this).data();
+			$(this).removeClass('selected').html('+ Add to cart');
+			$cartArray = $cartArray.filter((service) => parseInt(service.id, 0) !== data.id);
+			showCartService();
+		});
+		$body.on('click', '.addToCart:not(".selected")', function() {
+			const data = $(this).data();
+			if(!data.price || data.price =='Not Available'){
+				alert('This Service is not available. Kindly contact to Customer Care to opt this Service.');
+				return false;
+			}
+			$(this).addClass('selected').html('- Remove from cart');
+			var serviceArray = $priceServiceArray.filter((service) => parseInt(service.id, 0) === data.id);
+			$cartArray.push(...serviceArray);
+			showCartService();
+		});
+		$body.on('click', '#checkoutCart', (event) => {
+			event.preventDefault();
+			const citySelectedName = readCookie('selectedCityName');
+			localStorage.setItem('cartArray', JSON.stringify($cartArray));
+			localStorage.setItem('carDetails', JSON.stringify($carDetails));
+			location.href = `book.php?city=${citySelectedName}`;
+		});
+		function shareFunction() {
+			var $temp = $("<input>");
+			var $url = $(location).attr('href');
+			$("body").append($temp);
+			$temp.val($url).select();
+			document.execCommand("copy");
+			$temp.remove();
+			alert('Now you can paste the link to share!!');
+		}
+	</script>
+</body>
+
+</html>
+

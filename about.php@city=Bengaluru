@@ -1,0 +1,717 @@
+
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+	<title>About VehicleCare</title>
+	<!-- Meta tag Keywords -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8" />
+	<meta name="keywords" content="Car Service,Car Repair, Car Service Center,Car Denting, Car Painting, Car Cleaning, Car Wash, Car Mechanic, Car Garage, Car Service noida, Car Repair noida ,Car Wheel Repair ,Mercedes Car Service, Audi Car Service, BMW Car Service, Automobile Repair, noida, Hyundai , Maruti Suzuki, Honda, Toyota, Chevrolet, Volkswagen , Mahindra, Skoda, Daewoo, Nissan , BMW , Audi, Mercedes." />
+	<meta name="description" />
+	<script>
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
+
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
+	<!-- //Meta tag Keywords -->
+	<link rel="shortcut icon" href="https://vehiclecare.in/images/vehiclecare_title.png"> 
+
+	<!-- Custom-Files -->
+	<link rel="stylesheet" href="https://vehiclecare.in/css/bootstrap.css">
+	<!-- Bootstrap-Core-CSS -->
+	<link rel="stylesheet" href="https://vehiclecare.in/css/style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="https://vehiclecare.in/css/single.css" type="text/css" media="all" />
+	<!-- Style-CSS -->
+	<link rel="stylesheet" href="https://vehiclecare.in/css/font-awesome.css">
+	<!-- Font-Awesome-Icons-CSS -->
+	<!-- //Custom-Files -->
+
+	<!-- Web-Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;subset=latin-ext"
+	 rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese"
+	 rel="stylesheet">
+	<!-- //Web-Fonts -->
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145201897-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-145201897-1');
+	</script>
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-N2LFBNC');</script>
+	<!-- End Google Tag Manager -->
+
+	<!-- Facebook Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '529028581728796');
+	fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=529028581728796&ev=PageView&noscript=1"
+	/></noscript>
+	<!-- End Facebook Pixel Code -->
+<meta name="facebook-domain-verification" content="0nsth5a00froqrs6lv9bsgnslk0q8x" /> </head>
+
+<body>
+	
+	
+<!-- Preloader -->
+<div class="preloader layout2" id="loader">
+  <div class="meter">
+    <div class="line"></div>
+    <div class="line"></div>
+    <div class="line"></div>
+    <div class="line"></div>
+    <div class="line"></div>
+    <div class="line"></div>
+    <div class="subline"></div>
+    <div class="subline"></div>
+    <div class="subline"></div>
+    <div class="subline"></div>
+    <div class="subline"></div>
+    <div class="loader-circle-1">
+      <div class="loader-circle-2"></div>
+    </div>
+    <div class="needle"></div>
+    <span class="loadtext">Loading</span>
+  </div>
+</div>
+<!-- Preloader end -->
+<!-- header -->
+	<header>
+		<!-- navigation -->
+		<div class="main-top py-0">
+			<nav class="navbar navbar-expand-lg navbar-light fixed-navi">
+				<div class="container-fluid">
+					<!-- logo -->
+					<a class="navbar-brand font-weight-bold" href="https://vehiclecare.in/">
+						<img src="https://vehiclecare.in/images/logo.svg" class="logo">
+					</a>
+					<button class="btn btn-outline-danger citySelect selectedCity" data-toggle="modal" data-target="#city">Select City</button>
+					<!-- //logo -->
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+					 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+					<div class="collapse navbar-collapse text-center mr-2" id="navbarSupportedContent">
+						<ul class="navbar-nav ml-lg-auto">
+							<li class="nav-item mx-xl-5 mx-lg-3 my-lg-0 my-3">
+								<a class="nav-link" href="https://claims.vehiclecare.in">Insurance Claim</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="blaze.1">Blog
+									<span class="sr-only">(current)</span>
+								</a>
+							</li>
+							<li class="nav-item mx-xl-5 mx-lg-3 my-lg-0 my-3">
+								<a class="nav-link" href="https://vehiclecare.in/about.php">About Us</a>
+							</li>
+							
+							<li class="nav-item mt-lg-0 mt-3 my-3">
+								<a class="nav-link" href="https://vehiclecare.in/contact.php">Contact Us</a>
+							</li>
+
+							<li class="nav-item mx-xl-5 mx-lg-3 my-lg-0 my-3">
+								<a class="nav-link" href="https://vehiclecare.in/lubricant.php">Lubricant</a>
+							</li>
+							
+							<li class="ml-lg-4 mb-lg-0 mb-4">
+								<a target="_blank" href="https://prime.vehiclecare.in" class="reqe-button">VC-PRIME</a>
+							</li>
+						</ul>
+					</div>
+					<!-- language Selector [start] -->
+						<!--<div id="google_translate_element"></div>-->
+						<!--<script type="text/javascript">-->
+						<!--function googleTranslateElementInit() {-->
+						<!--	new google.translate.TranslateElement(-->
+						<!--	{ pageLanguage: "en" },-->
+						<!--	"google_translate_element"-->
+						<!--	);-->
+						<!--}-->
+						<!--</script>-->
+
+						<!--<script-->
+						<!--type="text/javascript"-->
+						<!--src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
+
+						</script>
+					language Selector [end] -->
+				</div>
+			</nav>
+		</div>
+		<!-- //navigation -->
+	</header>
+	<!-- //header -->	<!-- banner -->
+	<div class="banner-w3ls-2">
+
+	</div>
+	<!-- //banner -->
+
+	<!-- about section -->
+	<div class="inner-sec-w3ls py-2">
+		<div class="container-fluid pl-5 pr-5 py-xl-5 py-lg-3">
+			<div class="row">
+				<div class="col-lg-12 about-right">
+					<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Our Mission & Vision</h3>
+					<p class="mt-4 pt-4">A tech-driven multi-brand car service platform, VehicleCare simplifies car servicing through clever and cost-effective solutions. The VehicleCare nexus thrives on innovation and strives to bring quality, transparency, and reliability, the three pillars that undergird its business model. Owing to a motley of experts and state of the art equipments, we provide a host of services ranging from the biggest overhauls to the minutest tuning. Our business presence spans across India with workshops in Delhi, Noida, Gurgaon, Jaipur, Chennai, Ahmedabad, Lucknow, Bengaluru, Hyderabad, Jhansi, Mumbai, Chandigarh, Faridabad, and Pune.</p>
+
+					<!--<p>At Vehiclecare, we aim to provide you an Instant Repair Service. You just have to Give us a call and our expert automobile mechanics will reach to you anywhere within 10-15 minutes. We are a technology-driven  Vehicle Repair services Provider company. We are providing on-road emergency car repair services as well.</p>-->
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //about section -->
+
+	<!-- partner -->
+	<div class="bottom-w3pvt pb-lg-5 py-lg-0 py-5">
+		<div class="container-fluid pl-5 pr-5 py-xl-5 py-lg-3 partner">
+			<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Our Partners</h3>
+			<ul class="list-unstyled brands text-center pt-5">
+				<li><a href="https://www.olacabs.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep2.png" class="partnerImg"></a></li>
+				<li><a href="https://www.meru.in/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep3.png" class="partnerImg"></a></li>
+				<li><a href="https://www.cardekho.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep15.png" class="partnerImg"></a></li>
+				<li><a href="https://www.revv.co.in/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep4.png" class="partnerImg"></a></li>
+				<li><a href="https://www.spinny.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep5.png" class="partnerImg"></a></li>
+			</ul>
+			<ul class="list-unstyled brands text-center">
+				<li><a href="https://www.insurancedekho.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep6.png" class="partnerImg"></a></li>
+				<li><a href="https://www.digit.in/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep7.jpg" class="partnerImg"></a></li>
+				<li><a href="https://www.zoomcar.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep11.png" class="partnerImg"></a></li>
+				<li><a href="https://www.policybazaar.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep12.png" class="partnerImg"></a></li>
+				<li><a href="https://www.renewbuy.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep14.png" class="partnerImg"></a></li>	
+			</ul>
+			<ul class="list-unstyled brands text-center">
+				<li><a href="https://www.uber.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep1.jpg" class="partnerImg"></a></li>
+				<li><a href="https://www.acko.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep8.jpg" class="partnerImg"></a></li>
+				<li><a href="https://www.hdfcergo.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep10.png" class="partnerImg"></a></li>
+				<li><a href="https://www.tataaig.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep13.png" class="partnerImg"></a></li>
+			</ul>
+
+		</div>
+	</div>
+	<!-- //partner -->
+
+	<!-- team -->
+	<div class="team bg-light py-5">
+		<div class="container-fluid pl-5 pr-5 py-xl-5 py-lg-3">
+			<h3 class="title-w3 mb-sm-5 mb-5 text-dark font-weight-bold">Our Team Members</h3>
+			<div class="row mt-30 pt-5">
+				<div class="col-lg-4">
+					<div class="box16">
+						<img src="https://vehiclecare.in/images/team/vehiclecaret1.jpeg" alt="" class="img-fluid">
+						<div class="box-content">
+							<h3 class="title">Amit Yadav</h3>
+							<span class="post">Co-Founder</span>
+							<ul class="social">
+								<li><a target="_blank" href="https://www.facebook.com/amitshikamo"><i class="fa fa-facebook"></i></a></li>
+								<li><a target="_blank" href="https://vehiclecare.in/twitter.com/AmitraoOfficial"><i class="fa fa-twitter"></i></a></li>
+								<li><a target="_blank" href="https://www.linkedin.com/in/amitvehiclecare/"><i class="fa fa-linkedin"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 my-lg-0 my-5">
+					<div class="box16">
+						<img src="https://vehiclecare.in/images/team/vehiclecaret2.jpeg" alt="" class="img-fluid">
+						<div class="box-content">
+							<h3 class="title">Arvind Verma</h3>
+							<span class="post">Co-Founder</span>
+							<ul class="social">
+								<li><a target="_blank" href="about.php@city=Bengaluru#"><i class="fa fa-facebook"></i></a></li>
+								<li><a target="_blank" href="about.php@city=Bengaluru#"><i class="fa fa-twitter"></i></a></li>
+								<li><a target="_blank" href="https://www.linkedin.com/in/arvind-verma-6a8879ba/"><i class="fa fa-linkedin"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4">
+					<div class="box16">
+						<img src="https://vehiclecare.in/images/team/vehiclecaret4.jpg" alt="" class="img-fluid">
+						<div class="box-content">
+							<h3 class="title">Inder Vikiem Jit</h3>
+							<span class="post">Co-Founder</span>
+							<ul class="social">
+								<li><a target="_blank" href="https://www.facebook.com/indervikiemjit"><i class="fa fa-facebook"></i></a></li>
+								<li><a target="_blank" href="https://twitter.com/indervikiemjit"><i class="fa fa-twitter"></i></a></li>
+								<li><a target="_blank" href="https://www.linkedin.com/in/indervikiemjit/"><i class="fa fa-linkedin"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row mt-30 mt-5">
+				<div class="col-lg-3">
+					<div class="box16">
+						<img src="https://vehiclecare.in/images/team/vehiclecaret3.jpeg" alt="" class="img-fluid">
+						<div class="box-content">
+							<h3 class="title">Alok Srivastava</h3>
+							<span class="post">CBO & Co-Founder</span>
+							<ul class="social">
+								<!-- <li><a target="_blank" href="#"><i class="fa fa-facebook"></i></a></li> -->
+								<!-- <li><a target="_blank" href="#"><i class="fa fa-twitter"></i></a></li> -->
+								<li><a target="_blank" href="https://www.linkedin.com/in/alok-srivastava-526943133/"><i class="fa fa-linkedin"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				
+				<div class="col-lg-3">
+					<div class="box16">
+						<img src="https://vehiclecare.in/images/team/vehiclecaret8.jpeg" alt="" class="img-fluid">
+						<div class="box-content">
+							<h3 class="title">Sandeep yadav</h3>
+							<span class="post">Head-Finance</span>
+							<ul class="social">
+								<!-- <li><a target="_blank" href="#"><i class="fa fa-facebook"></i></a></li> -->
+								<!-- <li><a target="_blank" href="#"><i class="fa fa-twitter"></i></a></li> -->
+								<li><a target="_blank" href="https://www.facebook.com/sandeep.ihmbbsr"><i class="fa fa-linkedin"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3">
+					<div class="box16">
+						<img src="https://vehiclecare.in/images/team/vehiclecaret7.jpg" alt="" class="img-fluid">
+						<div class="box-content">
+							<h3 class="title">Deepak Kumar</h3>
+							<span class="post">Developer</span>
+							<ul class="social">
+								<!-- <li><a target="_blank" href="https://www.facebook.com/deepak.kr"><i class="fa fa-facebook"></i></a></li> -->
+								<!-- <li><a target="_blank" href="twitter.com/deepakkr27193"><i class="fa fa-twitter"></i></a></li> -->
+								<li><a target="_blank" href="https://www.linkedin.com/in/deepak-kumar-065670118/"><i class="fa fa-linkedin"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3">
+					<div class="box16">
+						<img src="https://vehiclecare.in/images/team/vehiclecaret6.jpeg" alt="" class="img-fluid">
+						<div class="box-content">
+							<h3 class="title">Priyanka Yadav</h3>
+							<span class="post">Designer</span>
+							<ul class="social">
+								<!-- <li><a target="_blank" href="https://www.facebook.com/priyankadostii"><i class="fa fa-facebook"></i></a></li> -->
+								<li><a target="_blank" href="https://www.linkedin.com/in/priyanka-yadav-395b14140/"><i class="fa fa-linkedin"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+
+			
+		</div>
+	</div>
+	<!-- //team -->
+
+	<!-- testimonials -->
+	<div class="testimonials py-3" id="testi">
+		<div class="container-fluid pl-5 pr-5 py-xl-5 py-lg-3">
+			<h3 class="title-w3 mb-5 font-weight-bold text-left">Our Happy Customers</h3><br/>
+			<div class="pb-5" data-ride="carousel">
+
+				<div class="row">
+					<div class="col-lg-4">
+						<div class="col-lg-12 w3_testimonials_grid ">
+							<h4 class="text-light">Amazing service provider VC I must recommend same quality which other famous brands provides but in less price they even don’t try to make your bill high which other service provider do by saying some parts need to change every product which needs to be replaced new packing is removed infront of u before putting it in ur car genuine products used. 😊👍
+							</h4>
+							<h5 class="mt-3">Vinay Kaushik <img src="https://vehiclecare.in/images/te1.jpeg" alt=" " vspace="5" class="img-fluid rounded-circle" /></h5>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="col-lg-12 w3_testimonials_grid ">
+							<h4 class="text-light">When ever I have visited the service center, I was treated like a family.I would give them 10 /10, for customer satisfaction, they explain every single detail. Keep you informed every time. I get calls every time I need to get my car serviced. Recommendable
+							</h4>
+							<h5 class="mt-3">Harkesh Singh <img src="https://vehiclecare.in/images/te2.png" alt=" " vspace="5" class="img-fluid rounded-circle" /></h5>
+						</div>
+
+					</div>
+					<div class="col-lg-4">
+						<div class="col-lg-12 w3_testimonials_grid ">
+							<h4 class="text-light">My car had some electrical issue, the service executive came at my place to examine the car and I was very surprised when the price quoted by him was much lesser than the estimate given by Honda service station. I am very happy with the work done on my car, thank you Vehiclecare.
+							</h4>
+							<h5 class="mt-3">Shravan Kumar <img src="https://vehiclecare.in/images/te3.jpeg" alt=" " vspace="5" class="img-fluid rounded-circle" /></h5>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //testimonials -->
+	
+	
+	<style>
+	.cityCells img{
+		border-radius: 100%;
+		width: 50px;
+		height: 50px;
+		margin: 8px 0px 8px 0px;
+	}
+</style>
+<div class="modal fade" id="city" tabindex="-1" role="dialog" aria-labelledby="cityLabel" aria-hidden="true">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content p-3">
+		
+		<!-- Modal Header -->
+		<div class="modal-header">
+			<h4 class="modal-title">Select City</h4>
+			<button type="button" class="close" data-dismiss="modal">&times;</button>
+		</div>
+		
+		<!-- Modal body -->
+		<div class="modal-body">
+			<div class="row text-center" id="cityCells"></div>
+		</div>
+			
+		</div>
+	</div>
+</div>
+
+<!-- footer -->
+<footer>
+	<div class="w3ls-footer-grids py-4" id="footer" style="background: url('https://vehiclecare.in/images/vehiclecaerfooter.png');">
+		<div class="container py-xl-2 py-lg-3">
+			<div class="row">
+				<div class="col-lg-12 text-center mb-4">
+					<a class="navbar-brand font-weight-bold" href="https://vehiclecare.in/index.php">
+						<img src="https://vehiclecare.in/images/logo.svg" class="logo">
+					</a>
+					<!-- <p class="mt-4">We pride ourselves on delivering the very best and hassle-free car services. Our cost-effective solutions and highly equipped workshops help our customers find the right solution for their car problems every day. We’ve made it easier to book car service on the go, choose from a wide range of car services, view estimates and get your right fit. -->
+					</p>
+					<div class="col-lg-12 w3social-icons text-center mt-lg-0 mt-3">
+						<ul>
+							<li>
+								<a href="https://www.facebook.com/vehiclecare.in" class="" target="_blank">
+									<i class="fa fa-facebook-f"></i> Facebook
+								</a>
+							</li>
+							<li class="px-2">
+								<a href="https://www.instagram.com/vehiclecare.in/?hl=en" class="" target="_blank">
+									<i class="fa fa-instagram"></i> Instagram
+								</a>
+							</li>
+							<li>
+								<a href="https://twitter.com/vehiclecare1" class="" target="_blank">
+									<i class="fa fa-twitter"></i> Twitter
+								</a>
+							</li>
+							<li>
+								<a href="https://www.linkedin.com/company/13583565/admin/" class="" target="_blank">
+									<i class="fa fa-linkedin"></i> Linkedin
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				
+				<!-- button -->
+				<div class="col-lg-6 w3l-footer text-lg-right text-center mt-3 isHidden">
+					<h5 class="text-left footerHeading">Popular Searches</h5>
+					<div class="row">
+						<ul class="list-unstyled footer-nav-wthree col-lg-6" id="popularSearchDom">
+							<li class="mr-4"> <a href="about.php@city=Bengaluru#" class="active">Car Service In Gurgaon </a></li>
+						</ul>
+						<ul class="list-unstyled footer-nav-wthree col-lg-6" id="popularSearchDomService">
+							<li class="mr-4"> <a href="about.php@city=Bengaluru#" class="active">Car Service In Gurgaon </a></li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="col-lg-3 w3l-footer text-lg-right text-center mt-3">
+					<h5 class="text-left footerHeading">Popular Services</h5>
+					<ul class="list-unstyled footer-nav-wthree">
+							<li class="mr-4"> <a class="" href="about.php@city=Bengaluru#">All Service</a></li>
+							<li class="mr-4"> <a class="" href="about.php@city=Bengaluru#">General Service</a></li>
+							<li class="mr-4"> <a class="" href="about.php@city=Bengaluru#">Custom Repairs</a></li>
+							<li class="mr-4"> <a class="" href="about.php@city=Bengaluru#">Car Cleaning</a></li>
+							<li class="mr-4"> <a class="" href="about.php@city=Bengaluru#">AC/Heater Service</a></li>
+							<li class="mr-4"> <a class="" href="about.php@city=Bengaluru#">Denting And Painting</a></li>
+					</ul>
+				</div>
+				<!-- //button -->
+				
+				<div class="col-lg-3 w3l-footer text-lg-right text-center mt-3">
+					<h5 class="text-left footerHeading">Company</h5>
+					<ul class="list-unstyled footer-nav-wthree">
+							<li class="mr-4"> <a class="" href="https://vehiclecare.in/about.php">About</a></li>
+							<li class="mr-4"> <a class="" href="about.php@city=Bengaluru#">Faq</a></li>
+							<li class="mr-4"> <a class="" href="https://vehiclecare.in/career.php">Careers</a></li>
+							<li class="mr-4"> <a class="" href="https://vehiclecare.in/contact.php">Contact Us</a></li>
+							<li class="mr-4"> <a class="" target="_blank" href="http://partner.vehiclecare.in/">Workshop Locator</a></li>
+							<li class="mr-4"> <a class="" href="https://vehiclecare.in/TermsCondition.php">Term & Conditions</a></li>
+							<li class="mr-4"> <a class="" href="https://vehiclecare.in/privacyPolicy.php">Privacy Policy</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="pt-lg-4 pt-3 text-center">
+				<!-- copyright -->
+				<p class="copy-right-grids mt-lg-1">© <script>document.write(new Date().getFullYear())</script> Copyright Houseneed Doorstep Services Private Limited. All rights reserved</a>
+				</p>
+				<!-- //copyright -->
+			</div>
+		</div>
+	</div>
+</footer>
+<!-- //footer -->
+
+<div class="modal fade" id="brandModelModal" tabindex="-1" role="dialog" aria-labelledby="modelTitleId" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title">Select Car Brand And Model</h5>
+				</div>
+				<div class="modal-body">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="form-group col-md-12">
+								<select onchange="createCookie('selected_carBrandName', this.value, 10);onBrandChange(this.value, '.car_model_modal');createCookie('selected_carBrandModel', '', 10);" class="car_brand car_brand_modal form-control">
+									<option>Select Your Brand</option>
+								</select>
+							</div>
+
+							<div class="form-group col-md-12">
+								<select onchange="createCookie('selected_carBrandModel', this.value, 10);getNewServiceList(this.value, '.car_brand_modal');" class="car_model_modal form-control">
+									<option>Select Your Model</option>
+								</select>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+<!-- Js files -->
+<!-- JavaScript -->
+<script src="https://vehiclecare.in/js/jquery-2.2.3.min.js"></script>
+<!-- Default-JavaScript-File -->
+<script src="https://vehiclecare.in/js/bootstrap.js"></script>
+<!-- Necessary-JavaScript-File-For-Bootstrap -->
+
+<!-- fixed navigation -->
+<script src="https://vehiclecare.in/js/fixed-nav.js"></script>
+<!-- //fixed navigation -->
+<!-- optional js -->
+<script src="https://vehiclecare.in/js/actions.js"></script>
+<!-- optional js -->
+<!-- dropdown smooth -->
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script src="https://www.gstatic.com/firebasejs/7.19.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.19.0/firebase-auth.js"></script>
+<script>
+	window.OneSignal = window.OneSignal || [];
+	OneSignal.push(function() {
+		OneSignal.init({
+		appId: "d6682313-c14e-4eae-a58a-7b078780b579",
+		});
+	});
+</script>
+<script>
+	$(document).ready(function () {
+			$(".dropdown").hover(
+				function () {
+					$('.dropdown-menu', this).stop(true, true).slideDown("fast");
+					$(this).toggleClass('open');
+				},
+				function () {
+					$('.dropdown-menu', this).stop(true, true).slideUp("fast");
+					$(this).toggleClass('open');
+				}
+			);
+		});
+	</script>
+<!-- //dropdown smooth -->
+
+<!-- search plugin -->
+<!-- pop-up-box -->
+<link href="https://vehiclecare.in/css/popuo-box.css" rel="stylesheet" type="text/css" media="all" />
+<script src="https://vehiclecare.in/js/jquery.magnific-popup.js"></script>
+<!-- //pop-up-box -->
+<!-- search script -->
+<script>
+	$(document).ready(function () {
+		$('.popup-with-zoom-anim').magnificPopup({
+			type: 'inline',
+			fixedContentPos: false,
+			fixedBgPos: true,
+			overflowY: 'auto',
+			closeBtnInside: true,
+			preloader: false,
+			midClick: true,
+			removalDelay: 300,
+			mainClass: 'my-mfp-zoom-in'
+		});
+		getAllCitiesNames();
+	});
+
+	$(function() {
+		$('#navbarSupportedContent ul li a').filter(function() {
+			return this.href == location.href
+		}).parent().addClass('active').siblings().removeClass('active')
+		$('#navbarSupportedContent ul li a').click(function() {
+			$(this).parent().addClass('active').siblings().removeClass('active')
+		})
+	});
+	function branchName(){
+		const element = $('#cityCells');
+		const elementSearch = $('#popularSearchDom');
+		const elementSearchService = $('#popularSearchDomService');
+		getBranchNames((response) => {
+				result = JSON.parse(response);
+				element.html('');
+				elementSearch.html('');
+				elementSearchService.html('');
+				$.each(result, function(key, val){
+					element.append(createCityViewCells(val));
+				});
+		});
+	}
+	const getAllCitiesNames = () => {
+		const selectedCityName = readCookie('selectedCityName');		
+		if (selectedCityName){
+				$( ".citySelect" ).empty();
+				$( ".citySelect" ).append(selectedCityName);
+		}
+
+		else if (!selectedCityName){
+			branchName();
+			$('#city').modal('show');
+		}
+		else{
+			var url_string = window.location.href;
+			var url = new URL(url_string);
+			var num = url_string.indexOf("?")+1
+			var cityName = url.searchParams.get("city");
+			if(!cityName){
+				if(url_string.indexOf('?') > 0){
+					location.href = url_string+'&city='+selectedCityName;
+				}else{
+					location.href = url_string+'?city='+selectedCityName;
+				}
+			}
+		}
+	}
+	function removeParam(key, sourceURL) {
+		var rtn = sourceURL.split("?")[0],
+			param,
+			params_arr = [],
+			queryString = (sourceURL.indexOf("?") !== -1) ? sourceURL.split("?")[1] : "";
+		if (queryString !== "") {
+			params_arr = queryString.split("&");
+			for (var i = params_arr.length - 1; i >= 0; i -= 1) {
+				param = params_arr[i].split("=")[0];
+				if (param === key) {
+					params_arr.splice(i, 1);
+				}
+			}
+			if (params_arr.length) rtn = rtn + "?" + params_arr.join("&");
+		}
+		return rtn;
+	}
+	$('body').on('click', '#city .cityCells', function(){
+		$('#city .cityCells').removeClass('selected');
+		$(this).addClass('selected');
+		createCookie('selectedCity', $(this).data('city'), 100);
+		createCookie('selectedCityName', $(this).data('name'), 100);
+		var url_string = window.location.href;
+		url_string = removeParam("city", url_string);
+		if(url_string.indexOf('?') > 0){
+			location.href = url_string+'&city='+$(this).find('h6').text();
+		}else{
+			location.href = url_string+'?city='+$(this).find('h6').text();
+		}
+	});
+
+	$('#city').on('show.bs.modal', function() {
+ 		branchName();
+	})
+
+</script>
+
+<script>
+  $(window).load(function() {
+    $('#loader').hide();
+  });
+</script>
+
+<script>
+//Get the button
+var mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+if(mybutton){
+	if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5a8beff3d7591465c707d370/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+<!-- smooth scrolling -->
+<script src="https://vehiclecare.in/js/SmoothScroll.min.js"></script>
+<!-- move-top -->
+<script src="https://vehiclecare.in/js/move-top.js"></script>
+<!-- easing -->
+<script src="https://vehiclecare.in/js/easing.js"></script>
+<!--  necessary snippets for few javascript files -->
+<script src="https://vehiclecare.in/js/inside.js"></script>
+
+<script src="https://vehiclecare.in/js/bootstrap.js"></script>
+<!-- Necessary-JavaScript-File-For-Bootstrap -->
+<!-- //Js files -->
+</body>
+
+</html>

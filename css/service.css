@@ -1,0 +1,102 @@
+.allService .isFixed{
+	top: 5em;
+	
+}
+.allService .isFixed{
+    width: 730px;
+    margin-left: calc((100% - 1109px)/2);
+    border-bottom: none;
+    border-top: none;
+    background: #fff;
+}
+#fixedDivScroll{
+	position:fixed;
+	right: 1em;
+	display: inline-block;
+	vertical-align:top;
+	/*bottom: 1em;*/
+	top: 5em;
+}
+#selectBrandModel, #serviceQueryForm{
+	margin-top: 2em;
+}
+#fixedDivScroll .nav .nav-item.pull-right{
+	position: absolute;
+	right: 2em;line-height: 2.5;text-decoration: none;
+}
+#fixedDivScroll .nav .nav-item .nav-link{
+    color: black;
+    font-size: 13px;
+    /*text-decoration: underline;*/
+}
+#fixedDivScroll span.fa.fa-star {
+    color: black;
+}
+#fixedDivScroll .nav .nav-item.pull-right .checked {
+	color: orange;
+}
+i.fa.fa-share-alt ,i.fa.fa-heart{
+    font-size: 20px;
+    padding-right: 5px;vertical-align: bottom;
+}
+.formBoxShadow {
+    border-radius: 15px;
+    background: transparent;
+    border: .0625rem solid hsla(0,0%,60.8%,.2);
+    padding: 1.25rem;
+    background: white;box-shadow: none;
+}
+.preferred {
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: #ed3237;
+    color: white;
+    border-radius: 15px;
+    padding: 5px 15px;
+    transform: rotate(0deg);
+}
+h3.card-title.ml-3.mb-3{
+	font-size: 1.375rem;
+}
+#serviceNav{
+    position: fixed;
+    z-index: 1;background: white;width: 100%;top: 65px;
+    padding-right: 15px;padding-left: 15px;
+    padding-bottom: 13px;
+    border-top: 2px solid #e0dddd;justify-content: center;
+    display: flex;
+}
+.serviceDiv{
+    margin-top: 11em;
+}
+#serviceNav .nav-link{
+    font-size: 13px;
+}
+h4.card-title.text-left{
+    width: 100%;
+}
+#custumService{
+    background: #ffeeee;
+}
+
+/* .serviceDiv ul li:before{
+    content:'\2713';
+    display:inline-block;
+    color:#ed3237;
+    padding:0 6px 0 0;
+    font-weight: 700;
+} */
+#custumService ul li {
+    display: block;
+}
+.service_icon{
+    width: 40px;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1280px) {
+   #serviceNav .nav-link{
+        font-size: 12px;
+
+   }
+}

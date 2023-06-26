@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /payment_fail.php
+Disallow: /captchacode.php
+Disallow: /index.php
+Disallow: /payment_success.php
+Disallow: /paymentResponse.php
+Disallow: /privacyPolicy.php
+Disallow: /checkout.php
+Disallow: /book.php
+Disallow: /career.php

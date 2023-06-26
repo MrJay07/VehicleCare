@@ -1,0 +1,1204 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+	<title>Most Affordable Car Service & Repair in Chandigarh - VehicleCare</title>
+	<!-- Meta tag Keywords -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8" />
+	<meta name="title" content="Most Affordable Car Service & Repair in Chandigarh - VehicleCare"/>
+	<meta name="keywords" content="Car Service,Car Repair, Car Service Center,Car Denting, Car Painting, Car Cleaning, Car Wash, Car Mechanic, Car Garage, Car Service Chandigarh, Car Repair Chandigarh ,Car Wheel Repair ,Mercedes Car Service, Audi Car Service, BMW Car Service, Automobile Repair, Chandigarh, Hyundai , Maruti Suzuki, Honda, Toyota, Chevrolet, Volkswagen , Mahindra, Skoda, Daewoo, Nissan , BMW , Audi, Mercedes." />
+	<meta name="description" content="In search of a trusted car service in Chandigarh? VehicleCare is here to cover all your car needs. Top-rated Car Service Centers, providing car service & repairs at affordable prices"/>
+	<link rel="canonical" href="car-service-chandigarh.php" />
+	<script>
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
+
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
+	<!-- //Meta tag Keywords -->
+	<link rel="shortcut icon" href="https://vehiclecare.in/images/vehiclecare_title.png"> 
+
+	<!-- Custom-Files -->
+	<link rel="stylesheet" href="https://vehiclecare.in/css/bootstrap.css">
+	<!-- Bootstrap-Core-CSS -->
+	<link rel="stylesheet" href="css/landing.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="https://vehiclecare.in/css/single.css" type="text/css" media="all" />
+	<!-- Style-CSS -->
+	<link rel="stylesheet" href="https://vehiclecare.in/css/font-awesome.css">
+	<!-- Font-Awesome-Icons-CSS -->
+	<!-- //Custom-Files -->
+
+	<!-- Web-Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;subset=latin-ext"
+	 rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese"
+	 rel="stylesheet">
+	<!-- //Web-Fonts -->
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145201897-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-145201897-1');
+	</script>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145201897-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-145201897-1');
+	</script>
+
+	<!-- Global site tag (gtag.js) - Google Ads: 953942891 -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-953942891"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'AW-953942891');
+	</script>
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-N2LFBNC');</script>
+	<!-- End Google Tag Manager -->
+
+	<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '529028581728796');
+	fbq('track', 'PageView');
+	</script>
+
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=529028581728796&ev=PageView&noscript=1"
+	/></noscript>
+	<!-- End Facebook Pixel Code -->
+
+<meta name="facebook-domain-verification" content="0nsth5a00froqrs6lv9bsgnslk0q8x" /> </head>
+
+<body>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N2LFBNC"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	
+<!-- header -->
+	<header>
+		<!-- navigation -->
+		<div class="main-top">
+			<nav class="navbar navbar-expand-lg navbar-light fixed-navi">
+				<div class="container-fluid">
+					<!-- logo -->
+					<a class="navbar-brand font-weight-bold" href="https://vehiclecare.in/index.php">
+						<img src="https://vehiclecare.in/images/logo.svg" class="logo">
+					</a>
+					<button class="btn btn-outline-danger mt-2 citySelect selectedCity" data-toggle="modal" data-target="#city" hidden></button>
+					<!-- //logo -->
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+					 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+					<div class="collapse navbar-collapse text-center mr-2" id="navbarSupportedContent">
+						<ul class="navbar-nav ml-lg-auto">
+							<!-- <li class="nav-item">
+								<a class="nav-link" href="http://vehiclecare.in/blaze/">Blog
+									<span class="sr-only">(current)</span>
+								</a>
+							</li> -->
+							<li class="nav-item mx-xl-5 mx-lg-3 my-lg-0 my-3">
+								<a class="nav-link" href="https://vehiclecare.in/about.php">About Us</a>
+							</li>
+							
+							<li class="nav-item mt-lg-0 mt-3">
+								<a class="nav-link" href="https://vehiclecare.in/contact.php">Contact Us</a>
+							</li>
+							
+							<li class="ml-lg-4 mb-lg-0 mb-4">
+								<a target="_blank" href="http://prime.vehiclecare.in" class="reqe-button">VC-PRIME</a>
+							</li>
+						</ul>
+					</div>
+					
+				</div>
+			</nav>
+		</div>
+		<!-- //navigation -->
+	</header>
+	<!-- //header -->
+
+	<!-- banner and form -->
+	<div class="main-w3pvt">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-lg-5 style-banner">
+					<div class="comment-top formBoxShadow ">
+						<h1 class="text-dark font-weight-bold">A Simpler Way to Car Service In  <span>Chandigarh </span> </h1>
+						<form id="serviceQueryForm" class="form-inline mt-5">
+							<!-- <div class="form-group col-lg-12 mb-4">
+							    <input type="text" class="form-control" placeholder="Enter Your Full Name" name="username" id="username">
+							</div> -->							
+							<div class="form-group col-lg-12 mb-4">
+							    <select onchange="getAllCarModels(this.value, $('.car_model_quotes'));" name="car_brand" class="car_brand list query">
+							      <option>Select Your Brand</option>
+							    </select>
+							</div>
+
+							<div class="form-group col-lg-12 mb-4">
+							    <select name="car_model" class="car_model_quotes list">
+									<option>Select Your Model</option>
+							    </select>
+							</div>
+							<div class="form-group col-lg-12 mb-4">
+							    <!-- <input type="text" class="form-control" placeholder="Enter Your Number" name="mobile" id="mobile"> -->
+								<input class="form-control" type="text" maxlength="10" id="mobile" name="mobile" placeholder="Enter Mobile Number" required="" onpaste="return false;" onkeypress="return event.charCode >= 48 && event.charCode <= 57">
+								
+							</div>
+
+							<div class="form-group col-lg-12 mb-4">
+							 	<input type="submit" name="submit" value="Get Quotes" class="submit form-control btn btn-block button-style mt-sm-4 mt-4">
+							</div>
+						</form>
+					</div>
+				</div>
+				<div class="col-lg-7 banner-img">
+					<!-- <img src="images/GH.svg" class="img-fluid homeImg pt-4"> -->
+					<h1 class="text-dark font-weight-bold mt-5">Looking for Car Service in Chandigarh??</h1>
+					<p class="title-para mx-auto mb-sm-1 mb-1">Look no further! Get a free personalized quote for your car.</p>
+					<div id="demo" class="carousel slide" data-ride="carousel">
+						  <!-- The slideshow -->
+						  <div class="carousel-inner">
+						    <div class="carousel-item active">
+						      <img src="images/landing/img.svg" class="img-fluid">
+						    </div>
+						    <div class="carousel-item">
+						      <img src="images/landing/img1.svg" class="img-fluid">
+						    </div>
+						  </div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<!-- //banner and form -->
+
+	<!-- services -->
+	<section class="banner-bottom-w3layouts py-3" id="services">
+		<div class="container py-xl-5 py-lg-3">
+			<div class="row">
+				<div class="col-lg-4"><br/>
+					<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Car Services Available in Chandigarh</h3>
+					<p class="title-para mx-auto mb-sm-5 mb-4">Find the best service packages for your car. Select from a wide range of car services, from general service, car wash, accidental repair  to custom repairs, cashless insurance claims and much more. 
+					</p>
+				</div>
+				<div class="col-lg-8">
+					<div class="row pt-sm-4">
+					
+					<div class="col-lg-3 col-sm-6 col-6 about-in text-center">
+						<div class="card">
+							<div class="card-body">
+								<a href="service.php@tab=service3" class="text-secondary" class="text-secondary"> 
+									<img style="width:60%;" alt="Car Wash" 
+									src="https://vehiclecare.in/images/service/washingdetailing.svg">
+									<h5 class="card-title mb-3"> car wash</h5>
+								</a>
+							</div>
+						</div>
+					</div>
+					
+
+					<div class="col-lg-3 col-sm-6 col-6 about-in text-center">
+						<div class="card">
+							<div class="card-body">
+								<a href="service.php@tab=service6" class="text-secondary" class="text-secondary"> 
+									<img style="width:60%;" alt="wheel care" 
+									src="https://vehiclecare.in/images/service/wheelcare.svg">
+									<h5 class="card-title mb-3"> wheel care</h5>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-sm-6 col-6 about-in text-center">
+						<div class="card">
+							<div class="card-body">
+								<a href="service.php@tab=service4" class="text-secondary"> 
+									<img style="width:60%;" alt="car ac repair" 
+									src="https://vehiclecare.in/images/service/acrepair.svg">
+									<h5 class="card-title mb-3"> car ac repair</h5>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-sm-6 col-6 about-in text-center">
+						<div class="card">
+							<div class="card-body">
+								<a href="service.php@tab=service5" class="text-secondary" class="text-secondary"> 
+									<img style="width:60%;" alt="car batteries" src="https://vehiclecare.in/images/service/batteriessupport.svg">
+									<h5 class="card-title mb-3"> car battery</h5>
+								</a>
+							</div>
+						</div>
+					</div>
+					</div>
+
+					<div class="row mt-lg-4">
+					<div class="col-lg-3 col-sm-6 col-6 about-in text-center">
+						<div class="card">
+							<div class="card-body">
+								<a href="service.php@tab=service2" class="text-secondary" class="text-secondary"> 
+									<img style="width:60%;" alt="denting & painting" 
+									src="https://vehiclecare.in/images/service/dentingpainting.svg">
+									<h5 class="card-title mb-3"> denting & painting </h5>
+								</a>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-3 col-sm-6 col-6 about-in text-center">
+						<div class="card">
+							<div class="card-body">
+								<a href="service.php@tab=service7" class="text-secondary" class="text-secondary"> 
+									<img style="width:60%;" alt="custom repairs" 
+									src="https://vehiclecare.in/images/service/customrepairs.svg">
+									<h5 class="card-title mb-3"> custom repairs </h5>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-sm-6 col-6 about-in text-center">
+						<div class="card">
+							<div class="card-body">
+								<a href="service.php@tab=service1" class="text-secondary" class="text-secondary"> 
+									<img style="width:60%;" alt="periodic service" 
+									src="https://vehiclecare.in/images/service/periodicservice.svg">
+									<h5 class="card-title mb-3"> periodic service</h5>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-sm-6 col-6 about-in text-center">
+						<div class="card">
+							<div class="card-body">
+								<a href="service.php@tab=service8" class="text-secondary" class="text-secondary"> 
+									<img style="width:60%;" alt="insurance claim" 
+									src="https://vehiclecare.in/images/service/insuranceclaim.svg">
+									<h5 class="card-title mb-3"> insurance claim</h5>
+								</a>
+							</div>
+						</div>
+					</div>
+					
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- //services -->
+
+	<!--/pricing -->
+	<section class="pricing bg-light py-5 d-none d-md-block d-lg-block" id="pricing">
+		<div class="container py-lg-3">
+			<div class="inner-sec">
+				<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">About Periodic Car Services</h3><br/>
+                <p class="title-para mx-auto mb-sm-5 mb-4">Car service is imperative to maintaining a well functioning and long lasting engine. It works together with the general care that you take of your car but includes some of the more essential items that are necessary for your vehicle to have. Car servicing makes sure the car is always in proper running condition by taking care of the general wear and tear, the car is inevitable to accrue with strain of driving.  </p>
+				<div class="price-right">
+					<div class="tabs">
+						
+						<div class="tab-content" id="pills-tabContent">
+							<div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+								<div class="menu-grids">
+									<div class="row t-in">
+										<div class="col-lg-3 col-sm-6 price-main-info" data-aos="zoom-in-up">
+											<div class="price-inner card box-shadow text-center marginTop">
+												<div class="card-body">
+													<ul class="list-unstyled mb-4 text-capitalize">
+														<li><img src="images/services_comparison/freepick.svg">
+														 free pick up and drop</li>
+														<li><img src="images/services_comparison/40checkup.svg"> 40 point check up</li>
+														<li><img src="images/services_comparison/3months.svg"> 3 months warranty</li>
+														<li><img src="images/services_comparison/genuinespares.svg"> genuine spares</li>
+														<li><img src="images/services_comparison/doorstep.svg"> doorstep service</li>
+														<li><img src="images/services_comparison/expertmechanics.svg"> expert mechanics</li>
+														<li><img src="images/services_comparison/delivery.svg"> same day delivery</li>
+													</ul>
+													
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-3 col-sm-6 price-main-info" data-aos="zoom-in-up">
+											<div class="price-inner card box-shadow  text-center">
+												<h4 class="bg-secondary text-white p-4">Local Mechanic </h4>
+												<div class="card-body">
+													<ul class="list-unstyled mb-4">
+														<li class="text-center"><i class="fa fa-check fa-2x"></i></li>
+														<li class="text-center"><i class="fa fa-times fa-2x"></i></li>
+														<li class="text-center"><i class="fa fa-times fa-2x"></i></li>
+														<li class="text-center"><i class="fa fa-times fa-2x"></i></li>
+														<li class="text-center"><i class="fa fa-times fa-2x"></i></li>
+														<li class="text-center"><i class="fa fa-times fa-2x"></i></li>
+														<li class="text-center"><i class="fa fa-times fa-2x"></i></li>
+														
+														
+													</ul>
+													
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-3 col-sm-6 price-main-info margintopminus" data-aos="zoom-in-up">
+											<div class="price-inner card box-shadow text-center">
+
+												<h4 class="bg-secondary text-white p-4">Authorized Service Center </h4>
+												<div class="card-body">
+													<ul class="list-unstyled mb-4">
+														<li class="text-center"><i class="fa fa-times fa-2x"></i></li>
+														<li class="text-center"><i class="fa fa-times fa-2x"></i></li>
+														<li class="text-center"><i class="fa fa-check fa-2x"></i></li>
+														<li class="text-center"><i class="fa fa-check fa-2x"></i></li>
+														<li class="text-center"><i class="fa fa-check fa-2x"></i></li>
+														<li class="text-center"><i class="fa fa-check fa-2x"></i></li>
+														<li class="text-center"><i class="fa fa-times fa-2x"></i></li>
+													</ul>
+													
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-3 col-sm-6 mt-lg-0 mt-5 price-main-info" data-aos="zoom-in-up">
+											<div class="price-inner card box-shadow text-center">
+
+												<h4 class="bg-warning text-white p-4">Vehiclecare</h4>
+												<div class="card-body">
+													<ul class="list-unstyled mb-4">
+														<li class="text-center"><i class="fa fa-check fa-2x"></i></li>
+														<li class="text-center"><i class="fa fa-check fa-2x"></i></li>
+														<li class="text-center"><i class="fa fa-check fa-2x"></i></li>
+														<li class="text-center"><i class="fa fa-check fa-2x"></i></li>
+														<li class="text-center"><i class="fa fa-check fa-2x"></i></li>
+														<li class="text-center"><i class="fa fa-check fa-2x"></i></li>
+														<li class="text-center"><i class="fa fa-check fa-2x"></i></li>
+													</ul>
+													
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- //pricing -->
+	
+	<section class="banner-bottom-w3layouts py-3" id="services">
+		<div class="container py-xl-5 py-lg-3">
+			<div class="row">             
+                <div class="col-lg-12">
+                    <h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">
+                    Car Service In Chandigarh
+
+                    </h3>
+					<p class="title-para mx-auto mb-sm-5 mb-4">
+					Our highly equipped network of garages offers the best car repair & service in Chandigarh. We incorporate car service packages for every car need and our workshops are equipped to manage multi brand models with the highest degree of expertise. The car service packages under VehicleCare have been customized for your convenience - Basic car service, standard car service, and comprehensive car service. Our starting service package covers the basic needs of a vehicle with under 1000 miles on. The upgraded standard package on the other hand works best for vehicles with over 10000 miles and the comprehensive service is a complete package for cars going under a longer service interval. You can avail premium car service in Chandigarh through online booking or offline modes and enjoy hassle free service every time. 
+					</p>
+
+                    <p class="title-para mx-auto mb-sm-5 mb-4">
+                        <b>Basic Service</b> - All the essentials to keep you moving - recommended every 6 months (5000km).
+                        <br/><b>Standard Service</b> - Get the essentials with the upgraded touch of VehicleCare. - recommended every 12 months (10000km).
+                        <br/><b>Comprehensive Service</b> - Top-of-the-range car service that includes end-to-end inspection- recommended every 24 months. (20000km).
+
+                        <br/><br/>Warranty On Car Service in Chandigarh - Timely and quality service is one of the best ways to maintain a car and keep unwanted problems at bay and with VehicleCare’s expert car service you can avoid all car troubles while enjoying your peace of mind. We promise an unconditional warranty of 1 month/1000 kms on all our car services
+
+					</p>
+                </div>
+			</div>
+		</div>        
+	</section>
+
+    <!-- service periodically -->
+    <div class="join-w3l1 py-3">
+		<div class="container pr-5 py-xl-5 py-lg-3">
+			<h3 class="title-w3 title-w3-3 mb-sm-5 mb-4 text-dark font-weight-bold">Why Should You Get Your Car Serviced Periodically? </h3>
+            <p class="title-para mx-auto mb-sm-3 mb-4">
+                <b class="text-danger">Improved Performance  </b><br/>
+                The best way to maintain engine performance in a car is by timely and regular car service. Car serving helps in enhancing the smooth operations of the engine and aid in the long term drivability of the vehicle. Maintaining a vehicle keeps it running up to scratch and conversely a badly maintained vehicle will deliver poor performance with each ensuing month.  
+            </p>
+            <p class="title-para mx-auto mb-sm-3 mb-4">
+                <b class="text-danger">Better Gas Mileage</b><br/>
+                A well maintained vehicle that has steady performance will continue to put out better gas mileage as opposed to one with an unsteady service history. Car service helps to reduce stress from the engine components to make them more efficient and freer to operate.      
+            </p>
+            <p class="title-para mx-auto mb-sm-3 mb-4">
+                <b class="text-danger">Prevent Wear On Internal Components  </b><br/>
+                Being a big mechanical object that works on fuel operated rapidly rotating parts, an engine is subject to substantial wear from closely meshing parts once its service is due. Servicing car in a timely manner helps to keep things in order for the engine and prevent any significant damage to the internals of the engine. 
+            </p>
+			
+		</div>
+	</div>
+    <!-- service periodically -->
+
+
+	<div class="join-w3l1 py-3">
+		<div class="container pr-5 py-xl-5 py-lg-3">
+			<h3 class="title-w3 title-w3-3 mb-sm-5 mb-4 text-dark font-weight-bold">Why Choose VehicleCare For Car Service In Chandigarh</h3>
+            <p class="title-para mx-auto mb-sm-5 mb-4">Choosing the best car service center in Chandigarh can be difficult given the high prices and unreliable repairs of the numerous obscure workshops. With VehicleCare you can be assured of only quality car workshops in Chandigarh. From workshops that come under our name, you can expect to follow a detailed quality procedure with assurity check to deliver your vehicle in the best condition. </p>
+			<div class="row join-agile2 text-center pt-md-5 pt-4">
+				<div class="col-md-3 steps-reach-w3l text-center">
+					<img src="https://vehiclecare.in/images/whychooseus/ingenioussolutions.svg" alt="genuine spare parts">
+					<p class="mt-3">Genuine Parts</p>
+					<h6>Top-notch quality with OEM/OES spares only.</h6>
+				</div>
+				<div class="col-md-3 steps-reach-w3l my-md-0 my-4 text-center">
+					<img src="https://vehiclecare.in/images/whychooseus/transparency.svg" alt="transparency">
+					<p class="mt-3">Transparent</p>
+					<h6>24x7 assistance and live status updates.</h6>
+				</div>
+				<div class="col-md-3 steps-reach-w3l text-center">
+					<img src="https://vehiclecare.in/images/whychooseus/trainedmechanics.svg" alt="Hassel free car service">
+					<p class="mt-3">Hassel-Free</p>
+					<h6>Services delivered through bespoke solutions.</h6>
+				</div>
+				<div class="col-md-3 steps-reach-w3l text-center">
+					<img src="https://vehiclecare.in/images/whychooseus/honestpricing.svg" alt="car service With Care">
+					<p class="mt-3">Honest Pricing</p>
+					<h6>Best quote in the industry for your car service.</h6>
+				</div>
+			</div>
+		</div>
+	</div>
+
+    <!-- best price -->
+    <div class="join-w3l1 py-3">
+		<div class="container pr-5 py-xl-5 py-lg-3">
+			<h3 class="title-w3 title-w3-3 mb-sm-5 mb-4 text-dark font-weight-bold">Best Prices - No Hidden Costs</h3>
+            <p class="title-para mx-auto mb-sm-3 mb-4">At Vehiclecare, car services pay only the actual costs. We do not charge anything above the service cost and provide a clear and transparent receipt for all that you’ve been charged for.      </p>
+            <p class="title-para mx-auto mb-sm-3 mb-4">
+                <b class="text-danger">Reliability - Same Day Delivery  </b><br/>
+                We aim to provide the best and most reliable car services available in Chandigarh. You can always count on us to deliver higher quality and faster service. Be it basic, standard or comprehensive, we promise to bring your car to you the same day.      
+            </p>
+            <p class="title-para mx-auto mb-sm-3 mb-4">
+                <b class="text-danger">Convenience - No Hassles</b><br/>
+                Auto repairs in Chandigarh can be a loop of never ending hassles at ordinary car service centers. We, at VehicleCare aim to eliminate all such car servicing troubles in Chandigarh and make your experience smooth and convenient. Customers at workshops can avail services like free pick and drop, same day delivery, genuine spares and more.  
+            </p>
+            <p class="title-para mx-auto mb-sm-3 mb-4">
+                <b class="text-danger">Genuine Spares - Guaranteed</b><br/>
+                All spares and products used at our workshops in Chandigarh are quality assured and up to speck with our standards throughout the network. 
+            </p>
+            <p class="title-para mx-auto mb-sm-3 mb-4">
+                <b class="text-danger">Stay Assured - 1 Month Warranty </b><br/>
+                We offer an unconditional warranty of 1 month/1000 km on every car serviced in Chandigarh with. Drive with assurity. . 
+            </p>
+			
+		</div>
+	</div>
+    <!-- best price -->
+
+	<!-- banner and form -->
+	<div class="middle-w3l join-w3l1" style="background: #F3F6FD;">
+		<div class="container py-xl-5 py-lg-3">
+			<div class="row">
+				<div class="col-lg-5">
+					<h1 class="text-dark font-weight-bold text-capitalize">Personalize Your Experience</h1>
+					<p class="mt-4">Get access to a comprehensive range of best in class car services. Customize for the perfect service experience with the help of our expert mechanics. Choose your right fit service from engine oil replace, interior cleaning, coolant top-up, wheel alignment and much more.</p>
+					<!-- <a href="" class="btn btn-block button-style mt-sm-5 mt-5"> Custum Repairs</a> -->
+				</div>
+				<div class="col-lg-7 text-center">
+					<img src="https://vehiclecare.in/images/landing/service.svg" class="bannerImg" style="width: 100%;">
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<!-- //banner and form -->
+
+    <!-- What Is Included In Car Service In Chandigarh -->
+    <div class="join-w3l1 py-3">
+		<div class="container pr-5 py-xl-5 py-lg-3">
+			<h3 class="title-w3 title-w3-3 mb-sm-5 mb-4 text-dark font-weight-bold">What Is Included In Car Service In Chandigarh</h3>
+            <p class="title-para mx-auto mb-sm-3 mb-4">Here are all the checkpoints for car repairing in Chandigarh </p>
+            <p class="title-para mx-auto mb-sm-3 mb-4">
+                <b class="text-danger">Run Engine Diagnostics </b><br/>
+                Our 40 point inspection helps you steer clear of unwanted repair and make your vehicle future proof for any damages. 
+            </p>
+            <p class="title-para mx-auto mb-sm-3 mb-4">
+                <b class="text-danger">Replace/flush the engine fluids: Oil, Brake Fluid, Power Steering fluid, Windshield Washer Fluid, Transmission Fluid, Antifreeze, Coolant, etc</b>
+                All automotive fluids are flushed or topped after inspection with the right and top quality product.    
+            </p>
+            <p class="title-para mx-auto mb-sm-3 mb-4">
+                <b class="text-danger">Replace filters: Air Filter, Oil Filter, Fuel Filter</b><br/>
+                Installing new filters is essential to maintain a clean flow of air and fuel into the combustion chamber.
+            </p>
+            <p class="title-para mx-auto mb-sm-3 mb-4">
+                <b class="text-danger">Tire Balancing and Rotation </b><br/>
+                As a free add-on, wheel alignment and balancing is offered on every vehicle serviced in Chandigarh along with free tire pressure check.  
+            </p>
+            <p class="title-para mx-auto mb-sm-3 mb-4">
+                <b class="text-danger">Check and/or change brake pads </b><br/>
+                Brake pads are a crucial part of the braking system and must be serviced or replaced at specified intervals.   
+            </p>
+            <p class="title-para mx-auto mb-sm-3 mb-4">
+                <b class="text-danger">Check HVAC system: Vents, air conditioning and heating, etc </b><br/>
+                Other systems such as the electricals and air conditioning are checked through specialized equipment.  
+            </p>
+            <p class="title-para mx-auto mb-sm-3 mb-4">
+                <b class="text-danger">Car wash  </b><br/>
+                After the car servicing is completed, the vehicle is given an exterior wash for a shiny finish.            
+            </p>
+			
+		</div>
+	</div>
+    <!-- What Is Included In Car Service In Chandigarh -->
+
+	<!-- how it works -->
+	<div class="join-w3l1 py-3">
+		<div class="container py-xl-5 py-lg-3">
+			<h3 class="title-w3 title-w3-3 mb-sm-5 mb-4 text-dark font-weight-bold">service in 4 easy steps</h3>
+			<div class="row join-agile2 text-center pt-md-5 pt-4">
+				<div class="col-md-3 steps-reach-w3l text-center">
+					<img src="images/howitworks/1.svg" alt="" />
+					<p class="mt-3">Select Your Car</p>
+					<h6>Choose from our portfolio of cars.</h6>
+					<!-- <div class="style-agile-border">
+						<img src="images/sty1.png" alt="" />
+					</div> -->
+				</div>
+				<div class="col-md-3 steps-reach-w3l my-md-0 my-4 text-center">
+					<img src="images/howitworks/2.svg" alt="" />
+					<p class="mt-3">Free Pick-Up & Drop</p>
+					<h6>Get free pick up & drop on all booked services.</h6>
+					<!-- <div class="style-agile-border second-border">
+						<img src="images/sty2.png" alt="" />
+					</div> -->
+				</div>
+				<div class="col-md-3 steps-reach-w3l text-center">
+					<img src="images/howitworks/3.svg" alt="" />
+					<p class="mt-3">Live Tracking</p>
+					<h6>Get real-time updates on your car's location and status.</h6>
+					<!-- <div class="style-agile-border">
+						<img src="images/sty1.png" alt="" />
+					</div> -->
+				</div>
+				<div class="col-md-3 steps-reach-w3l text-center">
+					<img src="images/howitworks/4.svg" alt="" />
+					<p class="mt-3">30 Days Warranty</p>
+					<h6>Stay assured. Get 30 days warranty on all car services.</h6>
+					<!-- <div class="style-agile-border">
+						<img src="images/sty1.png" alt="" />
+					</div> -->
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<!-- //how it works -->	
+
+	<!-- testimonials -->
+	<div class="testimonials py-3" id="testi">
+		<div class="container py-xl-5 py-lg-3">
+			<h3 class="title-w3 mb-5 font-weight-bold text-left">Our Happy Customers</h3><br/>
+			<div class="pb-5" data-ride="carousel">
+
+				<div class="row">
+					<div class="col-lg-4">
+						<div class="col-lg-12 w3_testimonials_grid ">
+							<h4 class="text-light">Amazing service provider VC I must recommend same quality which other famous brands provides but in less price they even don’t try to make your bill high which other service provider do by saying some parts need to change every product which needs to be replaced new packing is removed infront of u before putting it in ur car genuine products used. 😊👍
+							</h4>
+							<h5 class="mt-3">Vinay Kaushik <img src="https://vehiclecare.in/images/te1.jpeg" alt=" " vspace="5" class="img-fluid rounded-circle" /></h5>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="col-lg-12 w3_testimonials_grid ">
+							<h4 class="text-light">When ever I have visited the service center, I was treated like a family.I would give them 10 /10, for customer satisfaction, they explain every single detail. Keep you informed every time. I get calls every time I need to get my car serviced. Recommendable
+							</h4>
+							<h5 class="mt-3">Harkesh Singh <img src="https://vehiclecare.in/images/te2.png" alt=" " vspace="5" class="img-fluid rounded-circle" /></h5>
+						</div>
+
+					</div>
+					<div class="col-lg-4">
+						<div class="col-lg-12 w3_testimonials_grid ">
+							<h4 class="text-light">My car had some electrical issue, the service executive came at my place to examine the car and I was very surprised when the price quoted by him was much lesser than the estimate given by Honda service station. I am very happy with the work done on my car, thank you Vehiclecare.
+							</h4>
+							<h5 class="mt-3">Shravan Kumar <img src="https://vehiclecare.in/images/te3.jpeg" alt=" " vspace="5" class="img-fluid rounded-circle" /></h5>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //testimonials -->
+
+	<!-- faq -->
+	<div class="bottom-w3pvt pb-lg-5 py-lg-0 py-5">
+		<div class="container py-xl-5 py-lg-3">
+			<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Frequently Asked Question</h3>
+			<div id="accordion" class="faqList">
+      <div class="card">
+          <div class="card-header" id="headingOne">
+            <h5 class="mb-0">
+              <button class="btn btn-link false" data-toggle="collapse" data-target="#collapse17" aria-expanded="true" aria-controls="collapse17">
+                What sort of spare parts and engine oils are used in the servicing? <i class="fa fa-chevron-down"></i>
+              </button>
+            </h5>
+          </div>
+          <div id="collapse17" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+            <div class="card-body">
+              We use only genuine spares sourced from OEM/OES across all our workshops in Chandigarh. Further, al products used in car service in Chandigarh are authentic and top-rated.
+            </div>
+          </div>
+      </div>
+      <div class="card">
+          <div class="card-header" id="headingOne">
+            <h5 class="mb-0">
+              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse18" aria-expanded="false" aria-controls="collapse18">
+                How many VehicleCare car service centers are there in Chandigarh? <i class="fa fa-chevron-down"></i>
+              </button>
+            </h5>
+          </div>
+          <div id="collapse18" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+            <div class="card-body">
+              We have more than 30 car workshops in Chandigarh offering all the aforementioned services.
+            </div>
+          </div>
+      </div>
+      <div class="card">
+          <div class="card-header" id="headingOne">
+            <h5 class="mb-0">
+              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse20" aria-expanded="false" aria-controls="collapse20">
+                How can I book my car service with VehicleCare in Chandigarh? <i class="fa fa-chevron-down"></i>
+              </button>
+            </h5>
+          </div>
+          <div id="collapse20" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+            <div class="card-body">
+              You can easily book a car service in Chandigarh through our app/website. Just enter your car details, select service, and confirm the booking to schedule service on your preferred date &amp; time. You can also call or WhatsApp us on - 9911020209 to get real-time reporting and close experience.
+            </div>
+          </div>
+      </div>
+      <div class="card">
+          <div class="card-header" id="headingOne">
+            <h5 class="mb-0">
+              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse24" aria-expanded="false" aria-controls="collapse24">
+                Do you offer a warranty on my car service in Chandigarh? <i class="fa fa-chevron-down"></i>
+              </button>
+            </h5>
+          </div>
+          <div id="collapse24" class="collapse false" aria-labelledby="headingOne" data-parent="#accordion">
+            <div class="card-body">
+              Yes, you get an unconditional 1000kms/1month network warranty on car repairs and services redeemable anywhere in Chandigarh. No questions asked!
+            </div>
+          </div>
+      </div></div>
+		</div>
+	</div>
+	<!-- //faq -->
+
+	<!-- partner -->
+	<div class="bottom-w3pvt pb-lg-5 py-lg-0 py-5">
+		<div class="container py-xl-5 py-lg-3 partner">
+			<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Our Partners</h3>
+			<ul class="list-unstyled brands text-center pt-5">
+				<li><a href="https://www.olacabs.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep2.png" class="partnerImg"></a></li>
+				<li><a href="https://www.meru.in/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep3.png" class="partnerImg"></a></li>
+				<li><a href="https://www.cardekho.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep15.png" class="partnerImg"></a></li>
+				<li><a href="https://www.revv.co.in/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep4.png" class="partnerImg"></a></li>
+				<li><a href="https://www.spinny.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep5.png" class="partnerImg"></a></li>
+			</ul>
+			<ul class="list-unstyled brands text-center">
+				<li><a href="https://www.insurancedekho.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep6.png" class="partnerImg"></a></li>
+				<li><a href="https://www.digit.in/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep7.jpg" class="partnerImg"></a></li>
+				<li><a href="https://www.zoomcar.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep11.png" class="partnerImg"></a></li>
+				<li><a href="https://www.policybazaar.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep12.png" class="partnerImg"></a></li>
+				<li><a href="https://www.renewbuy.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep14.png" class="partnerImg"></a></li>	
+			</ul>
+			<ul class="list-unstyled brands text-center">
+				<li><a href="https://www.uber.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep1.jpg" class="partnerImg"></a></li>
+				<li><a href="https://www.acko.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep8.jpg" class="partnerImg"></a></li>
+				<li><a href="https://www.hdfcergo.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep10.png" class="partnerImg"></a></li>
+				<li><a href="https://www.tataaig.com/" rel="nofollow" ><img src="https://vehiclecare.in/images/partner/vehiclecarep13.png" class="partnerImg"></a></li>
+			</ul>
+
+		</div>
+	</div>
+	<!-- //partner -->
+
+	<!-- brand we serve -->
+	<div class="blog-w3ls py-5 bg-light border-bottom">
+		<div class="container py-xl-5 py-lg-3 partner brandList">
+			<h3 class="title-w3 mb-sm-5 mb-4 text-dark font-weight-bold">Brand We Serve</h3>
+			<ul class="list-unstyled brands text-center pt-5">
+				<li><img src="https://vehiclecare.in/images/brand/vehiclecareb&#32;(1).png" class="partnerImg"></li>
+				<li><img src="https://vehiclecare.in/images/brand/vehiclecareb&#32;(2).png" class="partnerImg"></li>
+				<li><img src="https://vehiclecare.in/images/brand/vehiclecareb&#32;(3).png" class="partnerImg"></li>
+				<li><img src="https://vehiclecare.in/images/brand/vehiclecareb&#32;(4).png" class="partnerImg"></li>
+				<li><img src="https://vehiclecare.in/images/brand/vehiclecareb&#32;(5).png" class="partnerImg"></li>
+			</ul>
+			<ul class="list-unstyled brands text-center">
+				<li><img src="https://vehiclecare.in/images/brand/vehiclecareb&#32;(6).png" class="partnerImg"></li>
+				<li><img src="https://vehiclecare.in/images/brand/vehiclecareb&#32;(7).png" class="partnerImg"></li>
+				<li><img src="https://vehiclecare.in/images/brand/vehiclecareb&#32;(8).png" class="partnerImg"></li>
+				<li><img src="https://vehiclecare.in/images/brand/vehiclecareb&#32;(9).png" class="partnerImg"></li>
+				<li><img src="https://vehiclecare.in/images/brand/vehiclecareb&#32;(10).png" class="partnerImg"></li>
+			</ul>
+			<ul class="list-unstyled brands text-center">
+				<li><img src="https://vehiclecare.in/images/brand/vehiclecareb&#32;(11).png" class="partnerImg"></li>
+				<li><img src="https://vehiclecare.in/images/brand/vehiclecareb&#32;(12).png" class="partnerImg"></li>
+				<li><img src="https://vehiclecare.in/images/brand/vehiclecareb&#32;(13).png" class="partnerImg"></li>
+				<li><img src="https://vehiclecare.in/images/brand/vehiclecareb&#32;(14).png" class="partnerImg"></li>
+			</ul>
+		</div>
+	</div>
+	<!-- //brand we serve -->
+	<!-- Modal -->
+	<div class="modal fade" id="sccessModal" tabindex="-1" role="dialog" aria-labelledby="modelTitleId" aria-hidden="true">
+		<div class="modal-dialog text-center" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title">Acknowledgment</h5>
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+							<span aria-hidden="true">&times;</span>
+						</button>
+				</div>
+				<div class="modal-body">
+					<h2 class="text-success">Thank You.. !!</h2>
+					<h6 class="text-info mt-4">Your Enquiry is sccessfully registered with us.</h6>
+					<h6 class="text-info mt-4">We will shortly come with excitiing offers.</h6>
+					<h6 class="text-secondary mt-4">For any assistance, you can <a href="https://vehiclecare.in/contact.php">contact us</a>.</h6>
+					<h6 class="text-success mt-4">We are Happy To Help You.</h6>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- <div class="map">
+		<iframe src="https://www.google.com/maps/d/embed?mid=1J7GH9_XIxHnKme7Kr_s8-zgVOoYz5ksL"></iframe>
+	</div> -->
+
+	<!-- banner and form -->
+	<div class="middle-w3l" id="some">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-lg-4 p-5">
+					<h1 class="text-dark font-weight-bold text-capitalize">custom solutions </h1>
+					<p class="mt-4">Do none of the above services cover your car care needs? check out our custom repairs plan to further personalize your car service experience with us.</p>
+					<a onclick="topFunction()" id="myBtn" class="btn btn-block button-style mt-sm-5 mt-5"> Custom Repairs</a>
+				</div>
+				<div class="col-lg-8 banner-img">
+					<img src="https://vehiclecare.in/images/footer.svg" class="bannerImg">
+				</div>
+
+			</div>
+		</div>
+	</div>
+<!-- //banner and form -->
+
+
+
+<!-- footer -->
+<footer>
+	<div class="w3ls-footer-grids py-4" style="background: url('https://vehiclecare.in/images/vehiclecaerfooter.png');">
+		<div class="container py-xl-2 py-lg-3">
+			<div class="row">
+				<div class="col-lg-12 text-center mb-4">
+					<a class="navbar-brand font-weight-bold" href="https://vehiclecare.in/index.html">
+						<img src="https://vehiclecare.in/images/logo.svg" class="logo">
+					</a>
+					<p class="mt-4">We pride ourselves on delivering the very best and hassle-free car services. Our cost-effective solutions and highly equipped workshops help our customers find the right solution for their car problems every day. We’ve made it easier to book car service on the go, choose from a wide range of car services, view estimates and get your right fit.
+					</p>
+					
+					<p class="mt-3"><b>Address :</b> 704, 7th floor,Palm Court Sector 14 Gurgaon 122001.
+						<br/>
+						vehiclecarecustomer@gmail.com ,
+						9911-0202-09
+					</p>
+
+					<div class="col-lg-12 w3social-icons text-center mt-lg-0 mt-3">
+						<ul>
+							<li>
+								<a href="https://www.facebook.com/vehiclecare.in" class="" target="_blank">
+									<i class="fa fa-facebook-f"></i> Facebook
+								</a>
+							</li>
+							<li class="px-2">
+								<a href="https://www.instagram.com/vehiclecare.in/?hl=en" class="" target="_blank">
+									<i class="fa fa-instagram"></i> Instagram
+								</a>
+							</li>
+							<li>
+								<a href="https://twitter.com/vehiclecare1" class="" target="_blank">
+									<i class="fa fa-twitter"></i> Twitter
+								</a>
+							</li>
+							<li>
+								<a href="https://www.linkedin.com/company/13583565/admin/" class="" target="_blank">
+									<i class="fa fa-linkedin"></i> Linkedin
+								</a>
+							</li>
+						</ul>
+					</div>
+
+
+				</div>
+				
+				
+			</div>
+
+			<div class="pt-lg-4 pt-3 text-center">
+				<!-- copyright -->
+				<p class="copy-right-grids mt-lg-1">© <script>document.write(new Date().getFullYear())</script> Copyright Houseneed Doorstep Services Private Limited. All rights reserved</a>
+				</p>
+				<!-- //copyright -->
+			</div>
+		</div>
+	</div>
+</footer>
+<!-- //footer -->
+
+<div class="modal fade" id="brandModelModal" tabindex="-1" role="dialog" aria-labelledby="modelTitleId" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title">Select Car Brand And Model</h5>
+				</div>
+				<div class="modal-body">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="form-group col-md-12">
+								<select onchange="onBrandChange(this.value, '.car_model_modal');" class="car_brand car_brand_modal form-control">
+									<option>Select Your Brand</option>
+								</select>
+							</div>
+
+							<div class="form-group col-md-12">
+								<select onchange="getNewServiceList(this.value, '.car_brand_modal');" class="car_model_modal form-control">
+									<option>Select Your Model</option>
+								</select>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+<!-- Js files -->
+<!-- JavaScript -->
+<script src="https://vehiclecare.in/js/jquery-2.2.3.min.js"></script>
+<!-- Default-JavaScript-File -->
+<script src="https://vehiclecare.in/js/bootstrap.js"></script>
+<!-- Necessary-JavaScript-File-For-Bootstrap -->
+
+<!-- fixed navigation -->
+<script src="https://vehiclecare.in/js/fixed-nav.js"></script>
+<!-- //fixed navigation -->
+<!-- optional js -->
+<script src="https://vehiclecare.in/js/actions.js"></script>
+<!-- optional js -->
+<!-- dropdown smooth -->
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script src="https://www.gstatic.com/firebasejs/7.19.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.19.0/firebase-auth.js"></script>
+<script>
+	window.OneSignal = window.OneSignal || [];
+	OneSignal.push(function() {
+		OneSignal.init({
+		appId: "d6682313-c14e-4eae-a58a-7b078780b579",
+		});
+	});
+</script>
+<script>
+	$(document).ready(function () {
+			$(".dropdown").hover(
+				function () {
+					$('.dropdown-menu', this).stop(true, true).slideDown("fast");
+					$(this).toggleClass('open');
+				},
+				function () {
+					$('.dropdown-menu', this).stop(true, true).slideUp("fast");
+					$(this).toggleClass('open');
+				}
+			);
+		});
+	</script>
+<!-- //dropdown smooth -->
+
+<!-- search plugin -->
+<!-- pop-up-box -->
+<link href="https://vehiclecare.in/css/popuo-box.css" rel="stylesheet" type="text/css" media="all" />
+<script src="https://vehiclecare.in/js/jquery.magnific-popup.js"></script>
+<!-- //pop-up-box -->
+<!-- search script -->
+<script>
+	$(document).ready(function () {
+		$('.popup-with-zoom-anim').magnificPopup({
+			type: 'inline',
+			fixedContentPos: false,
+			fixedBgPos: true,
+			overflowY: 'auto',
+			closeBtnInside: true,
+			preloader: false,
+			midClick: true,
+			removalDelay: 300,
+			mainClass: 'my-mfp-zoom-in'
+		});
+		getAllCitiesNames();
+	});
+
+	$(function() {
+		$('#navbarSupportedContent ul li a').filter(function() {
+			return this.href == location.href
+		}).parent().addClass('active').siblings().removeClass('active')
+		$('#navbarSupportedContent ul li a').click(function() {
+			$(this).parent().addClass('active').siblings().removeClass('active')
+		})
+	});
+	function branchName(){
+		const element = $('#cityCells');
+		const elementSearch = $('#popularSearchDom');
+		const elementSearchService = $('#popularSearchDomService');
+		getBranchNames((response) => {
+				result = JSON.parse(response);
+				element.html('');
+				elementSearch.html('');
+				elementSearchService.html('');
+				$.each(result, function(key, val){
+					element.append(createCityViewCells(val));
+				});
+		});
+	}
+	const getAllCitiesNames = () => {
+		const selectedCityName = readCookie('selectedCityName');		
+		$( ".citySelect" ).empty();
+		$( ".citySelect" ).append(selectedCityName);
+
+			// if (!selectedCityName){
+			// 	branchName();
+			// 	$('#city').modal('show');
+			// }
+			// else{
+			// 	var url_string = window.location.href;
+			// 	var url = new URL(url_string);
+			// 	var num = url_string.indexOf("?")+1
+				// var cityName = url.searchParams.get("city");
+				// if(!cityName){
+				// 	if(url_string.indexOf('?') > 0){
+				// 		location.href = url_string+'&city='+selectedCityName;
+				// 	}else{
+				// 		location.href = url_string+'?city='+selectedCityName;
+				// 	}
+				// }
+			// }
+	}
+	function removeParam(key, sourceURL) {
+		var rtn = sourceURL.split("?")[0],
+			param,
+			params_arr = [],
+			queryString = (sourceURL.indexOf("?") !== -1) ? sourceURL.split("?")[1] : "";
+		if (queryString !== "") {
+			params_arr = queryString.split("&");
+			for (var i = params_arr.length - 1; i >= 0; i -= 1) {
+				param = params_arr[i].split("=")[0];
+				if (param === key) {
+					params_arr.splice(i, 1);
+				}
+			}
+			if (params_arr.length) rtn = rtn + "?" + params_arr.join("&");
+		}
+		return rtn;
+	}
+	$('body').on('click', '#city .cityCells', function(){
+		$('#city .cityCells').removeClass('selected');
+		$(this).addClass('selected');
+		createCookie('selectedCity', $(this).data('city'), 100);
+		createCookie('selectedCityName', $(this).data('name'), 100);
+		// var url_string = window.location.href;
+		// url_string = removeParam("city", url_string);
+		// if(url_string.indexOf('?') > 0){
+		// 	location.href = url_string+'&city='+$(this).find('h6').text();
+		// }else{
+		// 	location.href = url_string+'?city='+$(this).find('h6').text();
+		// }
+	});
+
+	// $('#city').on('show.bs.modal', function() {
+ // 		branchName();
+	// })
+
+</script>
+
+<script>
+    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+    s1.async=true;
+    s1.src='https://embed.tawk.to/5a8beff3d7591465c707d370/default';
+    s1.charset='UTF-8';
+    s1.setAttribute('crossorigin','*');
+    s0.parentNode.insertBefore(s1,s0);
+    })();
+</script>
+
+<script>
+  $(window).load(function() {
+    $('#loader').hide();
+  });
+</script>
+
+<script>
+//Get the button
+var mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
+
+<!-- smooth scrolling -->
+<script src="https://vehiclecare.in/js/SmoothScroll.min.js"></script>
+<!-- move-top -->
+<script src="https://vehiclecare.in/js/move-top.js"></script>
+<!-- easing -->
+<script src="https://vehiclecare.in/js/easing.js"></script>
+<!--  necessary snippets for few javascript files -->
+<script src="https://vehiclecare.in/js/inside.js"></script>
+
+<script src="https://vehiclecare.in/js/bootstrap.js"></script>
+<!-- Necessary-JavaScript-File-For-Bootstrap -->
+<!-- //Js files -->
+	<script>
+		$body = $('body');
+		$selectCarBrand = $('.car_brand.list');
+		$( document ).ready(function() {
+			getAllCarBrands();
+			// getAllFaqListing();
+		});
+		const getAllCarBrands = () => {
+			getBrandNames((response) => {
+				// console.log('response', response);
+				result = JSON.parse(response);
+				$selectCarBrand.html('');
+				$selectCarBrand.append('<option value="">Select Your Brand</option>');
+
+				$.each(result, function(key,val){
+					var brand = val.car_brand;
+					var id = val.id;
+					$selectCarBrand.append('<option name="'+brand+'" value="'+id+'">' + brand + '</option>');
+				});
+			});
+		}
+		const getAllFaqListing = () => {
+			// const citySelected = readCookie('selectedCity');
+			const citySelected = 10;
+			const element = $('#accordion.faqList');
+			getFaqsNames(['0', citySelected], (response) => {
+				result = JSON.parse(response);
+				element.html('');
+				$.each(result, function(key, val){
+					element.append(createFaqCells(key, val));
+				});
+			});
+		}
+		const getAllCarModels = (id, $selectCarModel) => {
+			getModelNames(id, (response) => {
+				// console.log('response', response);
+				result = JSON.parse(response);
+				$selectCarModel.html('');
+				$selectCarModel.append('<option value="">Select Your Model</option>');
+
+				$.each(result, function(key,val){
+					var brand = val.model_name;
+					var id = val.id;
+					$selectCarModel.append('<option name="'+brand+'" value="'+id+'">' + brand + '</option>');
+				});
+			});
+		}
+		const makeSubmitActive = (id) => {
+			$(id).find('input[type="submit"]').prop('disabled', false);
+		}
+		$body.on('submit', '#selectBrandModel', (event) => {
+			event.preventDefault();
+			var carBrand = $('.car_brand').val().trim();
+			var carModel = $('.car_model_price').val().trim();
+			location.href = `service.php?bid=${carBrand}&mid=${carModel}`;
+		});
+		$body.on('click', '.moveToService', (event) => {
+			event.preventDefault();
+			location.href = 'service.php';
+		});
+		$body.on('submit', '#serviceQueryForm', (event) => {
+			event.preventDefault();
+			var url_string = window.location.href;
+			var url = new URL(url_string);
+			var campaign_name = url.searchParams.get("utm_campaign");
+			// var username = $('#username').val().trim();
+			var mobile = $('#mobile').val().trim();
+			var city = 'Chandigarh';
+			var carBrand = $('.car_brand.query').val().trim();
+			var carModel = $('.car_model_quotes').val().trim();
+			var target = 'VC Landing Chandigarh';
+			if(campaign_name){
+				target += ' ('+campaign_name+')';
+			}
+			if(!mobile || !carBrand || !carModel){
+				alert('All Fields are Mandatory');
+				return false;
+			}
+			// console.log(mobile,target,carBrand,carModel,city);
+			saveServiceQuery({mobile,target,carBrand,carModel,city},(response) => {
+				$('#serviceQueryForm').find('input:not(".submit"), select').val('');
+				// $('#sccessModal').modal('show');
+				location.href = "thanku.php";
+				// runCron(() => {
+				// });
+
+			});
+		});
+		$('#sccessModal').on('hidden.bs.modal', () => location.reload());
+	</script>
+
+	
+
+
+</body>
+
+</html>
